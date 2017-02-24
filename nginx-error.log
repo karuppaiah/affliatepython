@@ -1,0 +1,1153 @@
+2016/11/24 07:26:42 [error] 15399#15399: *1 directory index of "/home/ubuntu/karups/django/testapp/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:27:42 [info] 15399#15399: *2 client timed out (110: Connection timed out) while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:27:42 [info] 15399#15399: *3 client timed out (110: Connection timed out) while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:28:28 [error] 15501#15501: *1 directory index of "/home/ubuntu/karups/django/testapp/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:28:31 [error] 15501#15501: *1 directory index of "/home/ubuntu/karups/django/testapp/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:28:33 [error] 15501#15501: *1 directory index of "/home/ubuntu/karups/django/testapp/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:29:23 [info] 15501#15501: *2 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:29:23 [info] 15501#15501: *3 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:30:31 [error] 15528#15528: *1 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:30:34 [error] 15528#15528: *1 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:32:56 [error] 15528#15528: *2 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:33:36 [error] 15528#15528: *2 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:36:12 [error] 15528#15528: *3 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:36:21 [info] 15528#15528: *4 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:38:33 [error] 15528#15528: *5 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:39:32 [info] 15528#15528: *6 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:39:32 [error] 15528#15528: *5 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:39:45 [info] 15528#15528: *7 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:39:45 [error] 15528#15528: *5 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:40:09 [info] 15528#15528: *8 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:40:26 [error] 15748#15748: *1 directory index of "/home/ubuntu/karups/django/testapp/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:40:43 [info] 15748#15748: *2 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:40:43 [error] 15748#15748: *1 directory index of "/home/ubuntu/karups/django/testapp/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:41:44 [info] 15748#15748: *3 client timed out (110: Connection timed out) while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:41:58 [error] 15748#15748: *4 directory index of "/home/ubuntu/karups/django/testapp/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:42:09 [error] 15789#15789: *1 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:42:18 [error] 15789#15789: *1 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:42:24 [info] 15789#15789: *2 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:54:05 [error] 16531#16531: *1 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:54:37 [info] 16531#16531: *4 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:54:37 [info] 16531#16531: *2 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:54:37 [info] 16531#16531: *3 client closed connection while waiting for request, client: 54.206.70.214, server: 0.0.0.0:80
+2016/11/24 07:54:37 [error] 16531#16531: *1 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 07:54:42 [error] 16531#16531: *5 directory index of "/home/ubuntu/karups/django/testapp/" is forbidden, client: 54.206.70.214, server: _, request: "GET / HTTP/1.1", host: "ec2-54-169-91-231.ap-southeast-1.compute.amazonaws.com"
+2016/11/24 09:57:45 [info] 16753#16753: *36 client 80.82.64.146 closed keepalive connection
+2016/11/24 14:36:08 [info] 16753#16753: *42 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 61.216.2.13, server: _, request: "GET / HTTP/1.1"
+2016/11/24 17:33:43 [info] 16753#16753: *43 client timed out (110: Connection timed out) while waiting for request, client: 112.215.173.249, server: 0.0.0.0:80
+2016/11/24 17:33:43 [info] 16753#16753: *44 client timed out (110: Connection timed out) while waiting for request, client: 112.215.153.150, server: 0.0.0.0:80
+2016/11/24 17:33:48 [info] 16753#16753: *45 client timed out (110: Connection timed out) while waiting for request, client: 112.215.173.249, server: 0.0.0.0:80
+2016/11/24 17:33:51 [info] 16753#16753: *46 client timed out (110: Connection timed out) while waiting for request, client: 112.215.173.249, server: 0.0.0.0:80
+2016/11/24 17:33:52 [info] 16753#16753: *47 client timed out (110: Connection timed out) while waiting for request, client: 112.215.153.150, server: 0.0.0.0:80
+2016/11/24 17:34:06 [info] 16753#16753: *48 client timed out (110: Connection timed out) while waiting for request, client: 112.215.173.249, server: 0.0.0.0:80
+2016/11/24 17:34:09 [info] 16753#16753: *49 client timed out (110: Connection timed out) while waiting for request, client: 112.215.153.150, server: 0.0.0.0:80
+2016/11/24 17:34:16 [info] 16753#16753: *50 client timed out (110: Connection timed out) while waiting for request, client: 112.215.173.249, server: 0.0.0.0:80
+2016/11/24 17:34:51 [info] 16753#16753: *51 client timed out (110: Connection timed out) while waiting for request, client: 112.215.153.150, server: 0.0.0.0:80
+2016/11/24 17:35:02 [info] 16753#16753: *52 client timed out (110: Connection timed out) while waiting for request, client: 112.215.153.150, server: 0.0.0.0:80
+2016/11/24 17:35:16 [info] 16753#16753: *53 client timed out (110: Connection timed out) while waiting for request, client: 112.215.153.150, server: 0.0.0.0:80
+2016/11/24 17:35:20 [info] 16753#16753: *54 client timed out (110: Connection timed out) while waiting for request, client: 112.215.173.249, server: 0.0.0.0:80
+2016/11/24 17:38:47 [info] 16753#16753: *55 client timed out (110: Connection timed out) while waiting for request, client: 112.215.153.150, server: 0.0.0.0:80
+2016/11/24 17:39:44 [info] 16753#16753: *56 client timed out (110: Connection timed out) while waiting for request, client: 112.215.153.150, server: 0.0.0.0:80
+2016/11/24 17:39:46 [info] 16753#16753: *57 client timed out (110: Connection timed out) while waiting for request, client: 112.215.173.249, server: 0.0.0.0:80
+2016/11/24 19:14:34 [info] 16753#16753: *58 client timed out (110: Connection timed out) while waiting for request, client: 182.58.255.86, server: 0.0.0.0:80
+2016/11/24 19:33:02 [info] 16753#16753: *61 client timed out (110: Connection timed out) while waiting for request, client: 182.58.255.86, server: 0.0.0.0:80
+2016/11/24 19:45:20 [info] 16753#16753: *62 client timed out (110: Connection timed out) while waiting for request, client: 182.58.255.86, server: 0.0.0.0:80
+2016/11/24 22:59:44 [info] 16753#16753: *63 client 218.242.168.130 closed keepalive connection
+2016/11/24 23:30:58 [info] 16753#16753: *64 client closed connection while waiting for request, client: 185.159.37.8, server: 0.0.0.0:80
+2016/11/24 23:30:58 [info] 16753#16753: *65 client 185.159.37.8 closed keepalive connection
+2016/11/24 23:30:59 [info] 16753#16753: *66 client 185.159.37.8 closed keepalive connection
+2016/11/25 03:42:37 [info] 16753#16753: *81 client closed connection while waiting for request, client: 116.12.250.1, server: 0.0.0.0:80
+2016/11/25 06:55:32 [info] 16753#16753: *150 client sent invalid method while reading client request line, client: 174.102.216.192, server: _, request: "∆   †¿€À5W{Í¥¶=ÓI°˚1L˙˛o´∞ío;ÕÃb∑ÇUâ6ÜØ≥îOQG>9fi‡Ê}‘I•“0Y :˜˚ÌÕˇP|2(†ZeÓCoÃπy¨g†ò∆õÕ;∞)™¥ãH2˙å»Ö∏ÈŒ◊f˜∂"
+2016/11/25 09:24:22 [info] 16753#16753: *190 client 212.129.62.79 closed keepalive connection
+2016/11/25 09:24:23 [info] 16753#16753: *192 client 195.154.41.132 closed keepalive connection
+2016/11/25 09:24:23 [info] 16753#16753: *193 client 212.129.62.79 closed keepalive connection
+2016/11/25 09:24:23 [info] 16753#16753: *195 client 195.154.41.132 closed keepalive connection
+2016/11/25 09:24:23 [info] 16753#16753: *196 client 195.154.41.132 closed keepalive connection
+2016/11/25 09:24:25 [info] 16753#16753: *197 client 195.154.41.132 closed keepalive connection
+2016/11/25 09:59:39 [info] 16753#16753: *198 client timed out (110: Connection timed out) while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/25 10:54:11 [info] 16753#16753: *199 client 46.166.137.225 closed keepalive connection
+2016/11/25 11:16:33 [info] 16753#16753: *200 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "ñõøZF‚Aìî‰id@\$ËÚä∫”˘…Ù∑%ˇ√†/,77iíëx(H"
+2016/11/25 13:06:46 [info] 16753#16753: *203 client closed connection while waiting for request, client: 185.153.197.86, server: 0.0.0.0:80
+2016/11/25 13:06:47 [info] 16753#16753: *204 client 185.153.197.86 closed keepalive connection
+2016/11/25 13:06:47 [info] 16753#16753: *205 client 185.153.197.86 closed keepalive connection
+2016/11/25 15:09:53 [info] 16753#16753: *206 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.28, server: 0.0.0.0:80
+2016/11/25 15:10:17 [info] 16753#16753: *207 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.28, server: 0.0.0.0:80
+2016/11/25 15:10:19 [info] 16753#16753: *208 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.28, server: 0.0.0.0:80
+2016/11/25 15:10:26 [info] 16753#16753: *209 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.28, server: 0.0.0.0:80
+2016/11/25 15:32:24 [info] 16753#16753: *210 client timed out (110: Connection timed out) while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/25 15:33:16 [info] 16753#16753: *211 client timed out (110: Connection timed out) while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/25 17:43:53 [info] 16753#16753: *214 client closed connection while waiting for request, client: 116.87.45.50, server: 0.0.0.0:80
+2016/11/25 17:53:10 [info] 16753#16753: *225 client timed out (110: Connection timed out) while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/25 18:12:28 [info] 16753#16753: *228 client timed out (110: Connection timed out) while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/25 18:21:32 [info] 16753#16753: *229 client closed connection while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/25 19:01:14 [info] 16753#16753: *230 client 212.92.127.201 closed keepalive connection
+2016/11/25 19:13:24 [info] 16753#16753: *231 client timed out (110: Connection timed out) while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/25 19:16:26 [info] 16753#16753: *232 client timed out (110: Connection timed out) while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/25 20:01:33 [info] 16753#16753: *233 client timed out (110: Connection timed out) while waiting for request, client: 182.58.181.188, server: 0.0.0.0:80
+2016/11/26 11:13:35 [info] 16753#16753: *246 client 42.121.109.245 closed keepalive connection (104: Connection reset by peer)
+2016/11/26 11:13:35 [info] 16753#16753: *243 client 42.121.109.245 closed keepalive connection (104: Connection reset by peer)
+2016/11/26 11:13:35 [info] 16753#16753: *244 client 42.121.109.245 closed keepalive connection (104: Connection reset by peer)
+2016/11/26 11:13:35 [info] 16753#16753: *245 client 42.121.109.245 closed keepalive connection (104: Connection reset by peer)
+2016/11/26 11:13:35 [info] 16753#16753: *251 client 42.121.109.245 closed keepalive connection (104: Connection reset by peer)
+2016/11/26 11:13:35 [info] 16753#16753: *250 client 42.121.109.245 closed keepalive connection (104: Connection reset by peer)
+2016/11/26 11:13:35 [info] 16753#16753: *248 client 42.121.109.245 closed keepalive connection (104: Connection reset by peer)
+2016/11/26 11:13:35 [info] 16753#16753: *247 client 42.121.109.245 closed keepalive connection (104: Connection reset by peer)
+2016/11/26 14:20:03 [info] 16753#16753: *256 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "É3˛ö|Ãeg¸5©’{…£_ZæDa-Ä™¢&ÈZr–(ÎT ¬N∑¡0Ñ[•wºì~˜d•v+iÄ‹ã¶&˝"
+2016/11/26 17:31:16 [info] 16753#16753: *257 client closed connection while waiting for request, client: 223.255.228.97, server: 0.0.0.0:80
+2016/11/26 17:31:16 [info] 16753#16753: *258 client closed connection while waiting for request, client: 223.255.228.97, server: 0.0.0.0:80
+2016/11/26 21:41:42 [info] 16753#16753: *259 client 200.123.250.179 closed keepalive connection
+2016/11/27 04:07:21 [info] 16753#16753: *260 client timed out (110: Connection timed out) while waiting for request, client: 182.58.199.247, server: 0.0.0.0:80
+2016/11/27 13:37:47 [info] 16753#16753: *269 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.64, server: _, request: "GET /x HTTP/1.1"
+2016/11/27 15:32:35 [info] 16753#16753: *270 client 115.231.222.145 closed keepalive connection
+2016/11/27 17:34:22 [info] 16753#16753: *271 client closed connection while waiting for request, client: 185.159.37.6, server: 0.0.0.0:80
+2016/11/27 17:34:23 [info] 16753#16753: *272 client 185.159.37.6 closed keepalive connection
+2016/11/27 17:34:24 [info] 16753#16753: *273 client 185.159.37.6 closed keepalive connection
+2016/11/27 17:54:42 [info] 16753#16753: *274 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.39, server: 0.0.0.0:80
+2016/11/27 17:54:45 [info] 16753#16753: *275 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.39, server: 0.0.0.0:80
+2016/11/27 17:54:52 [info] 16753#16753: *276 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.39, server: 0.0.0.0:80
+2016/11/27 18:06:37 [info] 16753#16753: *277 client 115.231.222.145 closed keepalive connection (104: Connection reset by peer)
+2016/11/28 08:45:45 [info] 16753#16753: *412 client closed connection while waiting for request, client: 188.0.236.153, server: 0.0.0.0:80
+2016/11/28 08:45:45 [info] 16753#16753: *413 client 188.0.236.153 closed keepalive connection
+2016/11/28 08:45:46 [info] 16753#16753: *414 client 188.0.236.153 closed keepalive connection
+2016/11/28 09:35:27 [info] 16753#16753: *415 recv() failed (104: Connection reset by peer) while waiting for request, client: 195.154.181.168, server: 0.0.0.0:80
+2016/11/28 09:47:48 [info] 16753#16753: *416 client 139.162.13.205 closed keepalive connection
+2016/11/28 09:47:54 [info] 16753#16753: *417 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/11/28 09:47:54 [info] 16753#16753: *417 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/11/28 09:48:01 [info] 16753#16753: *418 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: "      "
+2016/11/28 09:48:01 [info] 16753#16753: *418 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: "      "
+2016/11/28 10:04:46 [info] 16753#16753: *419 client closed connection while waiting for request, client: 185.153.197.86, server: 0.0.0.0:80
+2016/11/28 10:04:47 [info] 16753#16753: *420 client 185.153.197.86 closed keepalive connection
+2016/11/28 10:04:48 [info] 16753#16753: *421 client 185.153.197.86 closed keepalive connection
+2016/11/28 12:25:55 [info] 16753#16753: *462 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.202, server: 0.0.0.0:80
+2016/11/28 12:27:06 [info] 16753#16753: *463 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.202, server: 0.0.0.0:80
+2016/11/28 15:46:51 [info] 16753#16753: *464 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 41.89.195.20, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2016/11/28 22:46:33 [info] 16753#16753: *495 client 169.54.233.119 closed keepalive connection
+2016/11/29 02:35:41 [info] 16753#16753: *498 client closed connection while waiting for request, client: 187.181.152.170, server: 0.0.0.0:80
+2016/11/29 09:09:48 [info] 16753#16753: *503 client 169.54.233.125 closed keepalive connection
+2016/11/29 10:26:30 [info] 16753#16753: *504 client closed connection while waiting for request, client: 185.159.37.7, server: 0.0.0.0:80
+2016/11/29 10:26:32 [info] 16753#16753: *505 client 185.159.37.7 closed keepalive connection
+2016/11/29 10:26:32 [info] 16753#16753: *506 client 185.159.37.7 closed keepalive connection
+2016/11/29 13:08:34 [info] 16753#16753: *507 client 116.70.2.97 closed keepalive connection
+2016/11/29 15:49:04 [info] 16753#16753: *508 client closed connection while waiting for request, client: 188.0.236.153, server: 0.0.0.0:80
+2016/11/29 15:49:05 [info] 16753#16753: *509 client 188.0.236.153 closed keepalive connection
+2016/11/29 15:49:06 [info] 16753#16753: *510 client 188.0.236.153 closed keepalive connection
+2016/11/29 16:31:23 [info] 16753#16753: *511 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/29 16:53:26 [info] 16753#16753: *512 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/29 17:15:32 [info] 16753#16753: *513 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/29 17:36:40 [info] 16753#16753: *514 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/29 17:55:03 [info] 16753#16753: *515 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/29 18:53:44 [info] 16753#16753: *516 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/29 19:01:56 [info] 16753#16753: *517 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/29 19:11:14 [info] 16753#16753: *518 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/29 19:12:37 [info] 16753#16753: *519 client timed out (110: Connection timed out) while waiting for request, client: 182.58.161.72, server: 0.0.0.0:80
+2016/11/30 03:10:42 [info] 16753#16753: *527 client sent invalid method while reading client request line, client: 72.49.3.183, server: _, request: "∆   †¿€À5W{Í¥¶=ÓI°˚1L˙˛o´∞ío;ÕÃb∑ÇUâ6ÜØ≥îOQG>9fi‡Ê}‘I•“0Y :˜˚ÌÕˇP|2(†ZeÓCoÃπy¨g†ò∆õÕ;∞)™¥ãH2˙å»Ö∏ÈŒ◊f˜∂"
+2016/11/30 04:39:19 [info] 16753#16753: *530 client 115.231.222.145 closed keepalive connection
+2016/11/30 09:22:12 [info] 16753#16753: *538 client closed connection while waiting for request, client: 185.159.37.6, server: 0.0.0.0:80
+2016/11/30 09:22:13 [info] 16753#16753: *539 client 185.159.37.6 closed keepalive connection
+2016/11/30 09:22:13 [info] 16753#16753: *540 client 185.159.37.6 closed keepalive connection
+2016/11/30 09:35:37 [info] 16753#16753: *541 recv() failed (104: Connection reset by peer) while waiting for request, client: 66.175.208.182, server: 0.0.0.0:80
+2016/11/30 09:35:38 [info] 16753#16753: *542 recv() failed (104: Connection reset by peer) while sending response to client, client: 66.175.208.182, server: _, request: "GET / HTTP/1.0"
+2016/11/30 12:34:41 [info] 16753#16753: *544 client 198.20.69.74 closed keepalive connection (104: Connection reset by peer)
+2016/11/30 12:34:44 [info] 16753#16753: *545 client 198.20.69.74 closed keepalive connection (104: Connection reset by peer)
+2016/11/30 12:34:45 [info] 16753#16753: *543 client 198.20.69.74 closed keepalive connection
+2016/11/30 13:32:07 [info] 16753#16753: *546 client closed connection while waiting for request, client: 185.159.37.6, server: 0.0.0.0:80
+2016/11/30 13:32:08 [info] 16753#16753: *547 client 185.159.37.6 closed keepalive connection
+2016/11/30 13:32:08 [info] 16753#16753: *548 client 185.159.37.6 closed keepalive connection
+2016/11/30 17:33:59 [info] 16753#16753: *549 client 182.118.55.233 closed keepalive connection
+2016/11/30 18:23:59 [info] 16753#16753: *550 client 180.97.106.162 closed keepalive connection
+2016/11/30 19:08:34 [info] 16753#16753: *553 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.152, server: 0.0.0.0:80
+2016/11/30 19:29:09 [info] 16753#16753: *554 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.152, server: 0.0.0.0:80
+2016/12/01 02:42:50 [info] 16753#16753: *556 client sent invalid method while reading client request line, client: 180.97.106.161, server: _, request: " P¥£qR "
+2016/12/01 03:18:35 [info] 16753#16753: *557 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: " ú +<M              "
+2016/12/01 03:18:35 [info] 16753#16753: *557 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: " ú +<M              "
+2016/12/01 03:18:35 [info] 16753#16753: *558 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/12/01 03:18:35 [info] 16753#16753: *558 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/12/01 03:18:59 [info] 16753#16753: *559 client closed connection while waiting for request, client: 139.162.13.205, server: 0.0.0.0:80
+2016/12/01 05:21:24 [info] 16753#16753: *561 client sent invalid method while reading client request line, client: 180.97.106.162, server: _, request: " "
+2016/12/01 09:23:19 [info] 16753#16753: *565 client closed connection while waiting for request, client: 185.153.197.86, server: 0.0.0.0:80
+2016/12/01 09:23:41 [info] 16753#16753: *566 client 185.153.197.86 closed keepalive connection
+2016/12/01 09:23:42 [info] 16753#16753: *567 client 185.153.197.86 closed keepalive connection
+2016/12/01 10:31:15 [info] 16753#16753: *570 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "6Ç_øıNÁHjK§…}†@¿EOı˙Æ8:•€©\sø~m 6i– ÿÌ(¡”u„ÇÖƒƒ”p†≥“°~£"
+2016/12/01 11:12:45 [info] 16753#16753: *571 client closed connection while waiting for request, client: 94.241.235.192, server: 0.0.0.0:80
+2016/12/01 11:12:47 [info] 16753#16753: *572 client 94.241.235.192 closed keepalive connection
+2016/12/01 14:44:07 [info] 16753#16753: *577 client closed connection while waiting for request, client: 120.188.32.250, server: 0.0.0.0:80
+2016/12/01 14:44:07 [info] 16753#16753: *576 client closed connection while waiting for request, client: 120.188.32.250, server: 0.0.0.0:80
+2016/12/01 14:44:07 [info] 16753#16753: *575 client closed connection while waiting for request, client: 120.188.32.250, server: 0.0.0.0:80
+2016/12/02 03:11:37 [info] 16753#16753: *578 client 218.93.201.199 closed keepalive connection
+2016/12/02 07:01:27 [info] 16753#16753: *579 client closed connection while waiting for request, client: 185.153.197.86, server: 0.0.0.0:80
+2016/12/02 07:01:28 [info] 16753#16753: *580 client 185.153.197.86 closed keepalive connection
+2016/12/02 07:01:29 [info] 16753#16753: *581 client 185.153.197.86 closed keepalive connection
+2016/12/02 11:08:33 [info] 16753#16753: *582 client closed connection while waiting for request, client: 188.0.236.153, server: 0.0.0.0:80
+2016/12/02 11:08:34 [info] 16753#16753: *583 client 188.0.236.153 closed keepalive connection
+2016/12/02 11:08:35 [info] 16753#16753: *584 client 188.0.236.153 closed keepalive connection
+2016/12/02 14:13:04 [info] 16753#16753: *589 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "-KtΩ“¥ãBñËz[ÏSJ `Ègß¿yçg¬¡bÃUæ%ââÔ∆é[∫?∂”ºÇﬂÈıCbﬂdèıÈRé·À"
+2016/12/02 15:57:02 [info] 16753#16753: *593 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.4, server: 0.0.0.0:80
+2016/12/02 15:58:07 [info] 16753#16753: *594 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.4, server: 0.0.0.0:80
+2016/12/02 16:31:29 [info] 16753#16753: *595 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.4, server: 0.0.0.0:80
+2016/12/02 17:59:56 [info] 16753#16753: *596 client timed out (110: Connection timed out) while waiting for request, client: 182.58.210.189, server: 0.0.0.0:80
+2016/12/02 18:39:30 [info] 16753#16753: *598 client sent invalid method while reading client request line, client: 97.79.190.66, server: _, request: "∆   $=âó; (~–V∞)Ìãß˝=ZŸq∞Ä.bn$`Y∑K»ˆƒÙ…Ÿ Á•-åac"
+2016/12/02 18:48:37 [info] 16753#16753: *599 client 23.247.5.25 closed keepalive connection (104: Connection reset by peer)
+2016/12/03 07:56:31 [info] 16753#16753: *608 client closed connection while waiting for request, client: 185.159.37.7, server: 0.0.0.0:80
+2016/12/03 07:56:32 [info] 16753#16753: *609 client 185.159.37.7 closed keepalive connection
+2016/12/03 07:56:32 [info] 16753#16753: *610 client 185.159.37.7 closed keepalive connection
+2016/12/03 18:28:26 [info] 16753#16753: *620 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/03 22:31:19 [info] 16753#16753: *623 client 128.232.110.28 closed keepalive connection
+2016/12/03 23:53:24 [info] 16753#16753: *624 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 00:07:47 [info] 16753#16753: *625 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 00:20:34 [info] 16753#16753: *626 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 00:34:46 [info] 16753#16753: *627 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 00:47:03 [info] 16753#16753: *628 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 01:03:27 [info] 16753#16753: *629 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 01:16:51 [info] 16753#16753: *630 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 01:33:11 [info] 16753#16753: *631 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 02:54:34 [info] 16753#16753: *632 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 03:13:57 [info] 16753#16753: *633 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 03:14:54 [info] 16753#16753: *634 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 03:28:17 [info] 16753#16753: *635 client timed out (110: Connection timed out) while waiting for request, client: 27.4.50.160, server: 0.0.0.0:80
+2016/12/04 05:25:34 [info] 16753#16753: *638 client closed connection while waiting for request, client: 185.159.37.8, server: 0.0.0.0:80
+2016/12/04 05:25:34 [info] 16753#16753: *639 client 185.159.37.8 closed keepalive connection
+2016/12/04 05:25:35 [info] 16753#16753: *640 client 185.159.37.8 closed keepalive connection
+2016/12/04 09:13:22 [info] 16753#16753: *641 client timed out (110: Connection timed out) while waiting for request, client: 139.193.213.184, server: 0.0.0.0:80
+2016/12/04 10:11:36 [info] 16753#16753: *642 client timed out (110: Connection timed out) while waiting for request, client: 182.58.227.126, server: 0.0.0.0:80
+2016/12/04 10:11:51 [info] 16753#16753: *643 client timed out (110: Connection timed out) while waiting for request, client: 182.58.227.126, server: 0.0.0.0:80
+2016/12/04 10:35:06 [info] 16753#16753: *644 client 175.126.74.136 closed keepalive connection
+2016/12/04 15:34:38 [info] 16753#16753: *645 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.80, server: _, request: "GET /x HTTP/1.1"
+2016/12/04 20:55:24 [info] 16753#16753: *651 client closed connection while waiting for request, client: 185.159.37.6, server: 0.0.0.0:80
+2016/12/04 20:55:25 [info] 16753#16753: *652 client 185.159.37.6 closed keepalive connection
+2016/12/04 20:55:25 [info] 16753#16753: *653 client 185.159.37.6 closed keepalive connection
+2016/12/05 00:51:40 [info] 16753#16753: *659 client 71.6.165.200 closed keepalive connection
+2016/12/05 00:51:41 [info] 16753#16753: *660 client 71.6.165.200 closed keepalive connection (104: Connection reset by peer)
+2016/12/05 00:51:41 [info] 16753#16753: *661 client 71.6.165.200 closed keepalive connection (104: Connection reset by peer)
+2016/12/05 16:24:56 [info] 16753#16753: *665 client sent invalid request while reading client request line, client: 188.95.104.14, server: _, request: "CONNECT oauth.vk.com:443 HTTP/1.1"
+2016/12/05 17:37:50 [info] 16753#16753: *667 client sent invalid method while reading client request line, client: 5.152.238.14, server: _, request: "∆   $=âó; (~–V∞)Ìãß˝=ZŸq∞Ä.bn$`Y∑K»ˆƒÙ…Ÿ Á•-åac"
+2016/12/06 03:52:19 [info] 16753#16753: *676 client 60.165.34.47 closed keepalive connection
+2016/12/06 11:42:23 [info] 16753#16753: *677 client closed connection while waiting for request, client: 185.159.37.6, server: 0.0.0.0:80
+2016/12/06 11:42:24 [info] 16753#16753: *678 client 185.159.37.6 closed keepalive connection
+2016/12/06 11:42:24 [info] 16753#16753: *679 client 185.159.37.6 closed keepalive connection
+2016/12/06 15:50:33 [info] 16753#16753: *684 client timed out (110: Connection timed out) while waiting for request, client: 182.58.227.63, server: 0.0.0.0:80
+2016/12/06 16:03:43 [info] 16753#16753: *685 client timed out (110: Connection timed out) while waiting for request, client: 182.58.227.63, server: 0.0.0.0:80
+2016/12/06 16:29:41 [info] 16753#16753: *686 client timed out (110: Connection timed out) while waiting for request, client: 182.58.227.63, server: 0.0.0.0:80
+2016/12/06 20:18:01 [info] 16753#16753: *688 client 169.56.71.50 closed keepalive connection
+2016/12/06 22:37:06 [info] 16753#16753: *689 client 139.162.13.205 closed keepalive connection
+2016/12/06 22:37:06 [info] 16753#16753: *690 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: " ú +<M              "
+2016/12/06 22:37:06 [info] 16753#16753: *690 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: " ú +<M              "
+2016/12/06 22:37:27 [info] 16753#16753: *691 client closed connection while waiting for request, client: 139.162.13.205, server: 0.0.0.0:80
+2016/12/06 22:37:44 [info] 16753#16753: *692 client closed connection while waiting for request, client: 139.162.13.205, server: 0.0.0.0:80
+2016/12/07 09:19:30 [info] 16753#16753: *695 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 09:31:11 [info] 16753#16753: *696 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 09:41:29 [info] 16753#16753: *697 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 09:55:58 [info] 16753#16753: *698 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 10:06:03 [info] 16753#16753: *699 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 10:14:32 [info] 16753#16753: *700 client 169.56.71.51 closed keepalive connection
+2016/12/07 10:25:56 [info] 16753#16753: *702 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 10:41:40 [info] 16753#16753: *703 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:00:50 [info] 16753#16753: *705 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:01:59 [info] 16753#16753: *706 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:10:11 [info] 16753#16753: *707 client closed connection while waiting for request, client: 185.159.37.8, server: 0.0.0.0:80
+2016/12/07 17:10:11 [info] 16753#16753: *708 client 185.159.37.8 closed keepalive connection
+2016/12/07 17:10:12 [info] 16753#16753: *709 client 185.159.37.8 closed keepalive connection
+2016/12/07 17:25:39 [info] 16753#16753: *710 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:27:14 [info] 16753#16753: *711 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:27:38 [info] 16753#16753: *712 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:27:49 [info] 16753#16753: *713 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:29:04 [info] 16753#16753: *714 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:29:25 [info] 16753#16753: *715 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:39:29 [info] 16753#16753: *716 client 218.31.123.86 closed keepalive connection (104: Connection reset by peer)
+2016/12/07 17:44:57 [info] 16753#16753: *717 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 17:58:50 [info] 16753#16753: *718 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.37, server: 0.0.0.0:80
+2016/12/07 18:05:45 [info] 16753#16753: *719 client 180.97.106.37 closed keepalive connection
+2016/12/07 18:29:52 [info] 16753#16753: *720 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.58, server: 0.0.0.0:80
+2016/12/07 18:48:10 [info] 16753#16753: *721 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.58, server: 0.0.0.0:80
+2016/12/07 23:36:21 [info] 16753#16753: *722 client 198.11.192.130 closed keepalive connection
+2016/12/07 23:36:50 [info] 16753#16753: *723 client 198.11.192.130 closed keepalive connection
+2016/12/07 23:36:53 [info] 16753#16753: *724 client 198.11.192.130 closed keepalive connection
+2016/12/08 00:37:01 [info] 16753#16753: *725 client 175.10.5.242 closed keepalive connection
+2016/12/08 01:00:28 [info] 16753#16753: *727 client sent invalid method while reading client request line, client: 93.174.93.218, server: _, request: " "
+2016/12/08 01:00:34 [info] 16753#16753: *728 client 93.174.93.218 closed keepalive connection
+2016/12/08 01:00:35 [info] 16753#16753: *729 client sent invalid method while reading client request line, client: 93.174.93.218, server: _, request: " P£¨¢0 "
+2016/12/08 01:00:36 [info] 16753#16753: *730 client sent invalid method while reading client request line, client: 93.174.93.218, server: _, request: " P£¨¢0 "
+2016/12/08 01:00:36 [info] 16753#16753: *731 client sent invalid method while reading client request line, client: 93.174.93.218, server: _, request: " "
+2016/12/08 01:12:47 [info] 16753#16753: *732 client 171.13.14.44 closed keepalive connection
+2016/12/08 02:11:23 [info] 16753#16753: *733 client sent invalid method while reading client request line, client: 180.97.106.162, server: _, request: " P¥£qR "
+2016/12/08 04:47:27 [info] 16753#16753: *736 client sent invalid method while reading client request line, client: 180.97.106.162, server: _, request: " "
+2016/12/08 11:47:35 [info] 16753#16753: *748 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 61.216.2.13, server: _, request: "GET / HTTP/1.1"
+2016/12/08 14:15:32 [info] 16753#16753: *753 client closed connection while waiting for request, client: 185.159.37.6, server: 0.0.0.0:80
+2016/12/08 14:15:33 [info] 16753#16753: *754 client 185.159.37.6 closed keepalive connection
+2016/12/08 14:15:33 [info] 16753#16753: *755 client 185.159.37.6 closed keepalive connection
+2016/12/08 18:09:44 [info] 16753#16753: *756 client timed out (110: Connection timed out) while waiting for request, client: 182.58.226.201, server: 0.0.0.0:80
+2016/12/08 18:15:46 [info] 16753#16753: *757 client timed out (110: Connection timed out) while waiting for request, client: 182.58.226.201, server: 0.0.0.0:80
+2016/12/08 20:40:02 [info] 16753#16753: *758 client 106.75.16.228 closed keepalive connection
+2016/12/09 03:58:12 [info] 16753#16753: *761 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.10, server: 0.0.0.0:80
+2016/12/09 03:58:13 [info] 16753#16753: *762 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.10, server: 0.0.0.0:80
+2016/12/09 06:49:12 [info] 16753#16753: *765 client 54.80.63.234 closed keepalive connection
+2016/12/09 06:49:12 [info] 16753#16753: *764 client 54.80.63.234 closed keepalive connection
+2016/12/09 07:18:35 [info] 16753#16753: *766 client 222.186.15.113 closed keepalive connection
+2016/12/09 07:54:27 [info] 16753#16753: *767 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.21, server: 0.0.0.0:80
+2016/12/09 07:54:50 [info] 16753#16753: *768 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.21, server: 0.0.0.0:80
+2016/12/09 07:55:18 [info] 16753#16753: *769 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.21, server: 0.0.0.0:80
+2016/12/09 07:55:23 [info] 16753#16753: *770 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.21, server: 0.0.0.0:80
+2016/12/09 07:55:53 [info] 16753#16753: *771 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.21, server: 0.0.0.0:80
+2016/12/09 07:56:08 [info] 16753#16753: *772 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.21, server: 0.0.0.0:80
+2016/12/09 07:57:19 [info] 16753#16753: *773 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.21, server: 0.0.0.0:80
+2016/12/09 07:59:26 [info] 16753#16753: *774 client timed out (110: Connection timed out) while waiting for request, client: 202.67.41.21, server: 0.0.0.0:80
+2016/12/09 11:46:38 [info] 16753#16753: *775 client timed out (110: Connection timed out) while waiting for request, client: 42.147.158.33, server: 0.0.0.0:80
+2016/12/09 12:28:29 [info] 16753#16753: *777 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:28:40 [info] 16753#16753: *778 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:28:54 [info] 16753#16753: *779 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:29:27 [info] 16753#16753: *780 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:30:09 [info] 16753#16753: *781 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:30:49 [info] 16753#16753: *782 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:30:56 [info] 16753#16753: *783 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:32:00 [info] 16753#16753: *784 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:32:15 [info] 16753#16753: *785 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:37:02 [info] 16753#16753: *786 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:37:08 [info] 16753#16753: *787 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:37:12 [info] 16753#16753: *788 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:37:20 [info] 16753#16753: *789 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:37:31 [info] 16753#16753: *790 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:37:42 [info] 16753#16753: *791 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:38:04 [info] 16753#16753: *792 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:38:20 [info] 16753#16753: *793 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:38:24 [info] 16753#16753: *794 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:38:42 [info] 16753#16753: *795 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:39:22 [info] 16753#16753: *796 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:39:42 [info] 16753#16753: *797 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:39:52 [info] 16753#16753: *798 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:39:54 [info] 16753#16753: *799 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:40:22 [info] 16753#16753: *800 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:40:36 [info] 16753#16753: *801 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 12:40:55 [info] 16753#16753: *802 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 13:18:24 [info] 16753#16753: *803 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "Ñ+«2$™XåÃ=Í{‘8™Ï≠€¢Ω"
+2016/12/09 15:30:35 [info] 16753#16753: *804 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 15:30:37 [info] 16753#16753: *805 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 15:30:55 [info] 16753#16753: *806 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 15:30:58 [info] 16753#16753: *807 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 15:31:11 [info] 16753#16753: *808 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 15:32:34 [info] 16753#16753: *809 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 15:32:57 [info] 16753#16753: *810 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:03:19 [info] 16753#16753: *811 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:44:54 [info] 16753#16753: *814 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:44:59 [info] 16753#16753: *815 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:45:03 [info] 16753#16753: *816 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:45:21 [info] 16753#16753: *817 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:45:27 [info] 16753#16753: *818 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:47:19 [info] 16753#16753: *819 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:48:03 [info] 16753#16753: *820 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:48:57 [info] 16753#16753: *821 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:51:13 [info] 16753#16753: *822 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:51:41 [info] 16753#16753: *823 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:52:08 [info] 16753#16753: *824 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:52:42 [info] 16753#16753: *825 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:53:12 [info] 16753#16753: *826 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:53:59 [info] 16753#16753: *827 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:55:23 [info] 16753#16753: *828 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:55:31 [info] 16753#16753: *829 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:57:17 [info] 16753#16753: *830 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:57:24 [info] 16753#16753: *831 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:57:30 [info] 16753#16753: *832 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:57:34 [info] 16753#16753: *833 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:57:40 [info] 16753#16753: *834 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:57:46 [info] 16753#16753: *835 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:58:04 [info] 16753#16753: *836 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:58:11 [info] 16753#16753: *837 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 16:58:20 [info] 16753#16753: *838 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:02:22 [info] 16753#16753: *839 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:02:52 [info] 16753#16753: *840 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:03:38 [info] 16753#16753: *841 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:03:48 [info] 16753#16753: *842 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:04:01 [info] 16753#16753: *843 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:04:06 [info] 16753#16753: *844 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:08:14 [info] 16753#16753: *845 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:08:19 [info] 16753#16753: *846 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:08:45 [info] 16753#16753: *847 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:08:49 [info] 16753#16753: *848 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:08:53 [info] 16753#16753: *849 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:10:23 [info] 16753#16753: *850 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:10:36 [info] 16753#16753: *851 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:10:41 [info] 16753#16753: *852 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:10:57 [info] 16753#16753: *853 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:13:34 [info] 16753#16753: *854 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:13:56 [info] 16753#16753: *855 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:15:01 [info] 16753#16753: *856 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:15:12 [info] 16753#16753: *857 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:15:12 [info] 16753#16753: *858 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:15:37 [info] 16753#16753: *859 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:17:36 [info] 16753#16753: *860 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:18:21 [info] 16753#16753: *861 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:19:47 [info] 16753#16753: *862 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 17:20:17 [info] 16753#16753: *863 client timed out (110: Connection timed out) while waiting for request, client: 202.67.40.225, server: 0.0.0.0:80
+2016/12/09 22:36:35 [info] 16753#16753: *866 client closed connection while waiting for request, client: 185.159.37.8, server: 0.0.0.0:80
+2016/12/09 22:36:36 [info] 16753#16753: *867 client 185.159.37.8 closed keepalive connection
+2016/12/09 22:36:36 [info] 16753#16753: *868 client 185.159.37.8 closed keepalive connection
+2016/12/10 00:12:37 [info] 16753#16753: *869 client 212.92.127.201 closed keepalive connection
+2016/12/10 01:08:35 [info] 16753#16753: *870 client 139.162.13.205 closed keepalive connection
+2016/12/10 01:08:54 [info] 16753#16753: *871 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: "      "
+2016/12/10 01:08:54 [info] 16753#16753: *871 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: "      "
+2016/12/10 04:16:09 [info] 16753#16753: *872 client closed connection while waiting for request, client: 177.183.84.16, server: 0.0.0.0:80
+2016/12/10 04:19:29 [info] 16753#16753: *877 client 217.118.84.185 closed keepalive connection
+2016/12/10 09:19:19 [info] 16753#16753: *879 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: " 'dªˇÿõDN»vmÃ°hyËç%L˚8Éñ÷S)##–	;êÊ"
+2016/12/10 15:33:22 [info] 16753#16753: *886 client closed connection while waiting for request, client: 116.14.24.162, server: 0.0.0.0:80
+2016/12/10 15:33:25 [info] 16753#16753: *885 client closed connection while waiting for request, client: 116.14.24.162, server: 0.0.0.0:80
+2016/12/11 06:40:00 [info] 16753#16753: *896 client timed out (110: Connection timed out) while waiting for request, client: 112.215.174.141, server: 0.0.0.0:80
+2016/12/11 16:46:07 [info] 16753#16753: *903 client closed connection while waiting for request, client: 185.159.37.8, server: 0.0.0.0:80
+2016/12/11 16:46:07 [info] 16753#16753: *904 client 185.159.37.8 closed keepalive connection
+2016/12/11 16:46:08 [info] 16753#16753: *905 client 185.159.37.8 closed keepalive connection
+2016/12/11 18:29:17 [info] 16753#16753: *907 client 54.80.30.202 closed keepalive connection
+2016/12/11 18:29:17 [info] 16753#16753: *906 client 54.80.30.202 closed keepalive connection
+2016/12/11 19:05:30 [info] 16753#16753: *908 client sent invalid method while reading client request line, client: 69.140.36.82, server: _, request: "∆   †¿€À5W{Í¥¶=ÓI°˚1L˙˛o´∞ío;ÕÃb∑ÇUâ6ÜØ≥îOQG>9fi‡Ê}‘I•“0Y :˜˚ÌÕˇP|2(†ZeÓCoÃπy¨g†ò∆õÕ;∞)™¥ãH2˙å»Ö∏ÈŒ◊f˜∂"
+2016/12/11 19:09:19 [info] 16753#16753: *909 client 69.140.36.82 closed keepalive connection (104: Connection reset by peer)
+2016/12/11 21:24:28 [info] 16753#16753: *911 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.16, server: _, request: "GET /x HTTP/1.1"
+2016/12/12 15:15:15 [info] 16753#16753: *916 client 35.165.36.182 closed keepalive connection (104: Connection reset by peer)
+2016/12/12 16:41:07 [info] 16753#16753: *917 client 196.52.43.51 closed keepalive connection
+2016/12/12 21:05:23 [info] 16753#16753: *919 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/12/12 21:05:23 [info] 16753#16753: *919 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/12/12 21:05:38 [info] 16753#16753: *920 client closed connection while waiting for request, client: 139.162.13.205, server: 0.0.0.0:80
+2016/12/13 02:34:29 [info] 16753#16753: *921 client 196.52.43.51 closed keepalive connection
+2016/12/13 08:19:51 [info] 16753#16753: *928 client 61.6.86.42 closed keepalive connection
+2016/12/14 11:25:04 [info] 16753#16753: *954 client closed connection while waiting for request, client: 185.159.37.9, server: 0.0.0.0:80
+2016/12/14 11:25:05 [info] 16753#16753: *955 client 185.159.37.9 closed keepalive connection
+2016/12/14 11:25:05 [info] 16753#16753: *956 client 185.159.37.9 closed keepalive connection
+2016/12/14 18:39:42 [info] 16753#16753: *957 recv() failed (104: Connection reset by peer) while sending response to client, client: 120.27.112.237, server: _, request: "GET / HTTP/1.1", host: "13.54.142.80:80"
+2016/12/14 18:43:39 [info] 16753#16753: *958 client timed out (110: Connection timed out) while waiting for request, client: 120.188.3.197, server: 0.0.0.0:80
+2016/12/14 18:46:02 [info] 16753#16753: *959 client 180.97.106.162 closed keepalive connection
+2016/12/14 21:10:55 [info] 16753#16753: *961 recv() failed (104: Connection reset by peer), client: 62.210.181.161, server: _, request: "HEAD /robots.txt HTTP/1.0"
+2016/12/14 21:29:34 [info] 16753#16753: *962 client closed connection while waiting for request, client: 189.100.118.18, server: 0.0.0.0:80
+2016/12/14 23:06:46 [info] 16753#16753: *968 client closed connection while waiting for request, client: 185.159.37.7, server: 0.0.0.0:80
+2016/12/14 23:06:47 [info] 16753#16753: *969 client 185.159.37.7 closed keepalive connection
+2016/12/14 23:06:47 [info] 16753#16753: *970 client 185.159.37.7 closed keepalive connection
+2016/12/15 00:35:03 [info] 16753#16753: *971 client 191.96.249.53 closed keepalive connection
+2016/12/15 03:45:26 [info] 16753#16753: *974 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " P¥£qR "
+2016/12/15 06:19:54 [info] 16753#16753: *975 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " "
+2016/12/15 06:25:37 [info] 16753#16753: *976 client closed connection while waiting for request, client: 81.89.193.147, server: 0.0.0.0:80
+2016/12/15 08:10:30 [info] 16753#16753: *977 client 218.93.201.202 closed keepalive connection
+2016/12/15 15:01:15 [info] 16753#16753: *1016 client timed out (110: Connection timed out) while waiting for request, client: 23.247.27.74, server: 0.0.0.0:80
+2016/12/15 19:52:52 [info] 16753#16753: *1017 client 191.96.249.54 closed keepalive connection
+2016/12/16 04:42:13 [info] 16753#16753: *1026 client 54.166.165.82 closed keepalive connection
+2016/12/16 04:42:13 [info] 16753#16753: *1025 client 54.166.165.82 closed keepalive connection
+2016/12/16 06:45:41 [info] 16753#16753: *1027 client 111.73.46.169 closed keepalive connection
+2016/12/16 15:17:42 [info] 16753#16753: *1044 client closed connection while waiting for request, client: 188.0.236.152, server: 0.0.0.0:80
+2016/12/16 15:17:43 [info] 16753#16753: *1045 client 188.0.236.152 closed keepalive connection
+2016/12/16 15:17:43 [info] 16753#16753: *1046 client 188.0.236.152 closed keepalive connection
+2016/12/16 23:56:20 [info] 16753#16753: *1055 client 64.16.214.12 closed keepalive connection
+2016/12/17 12:12:02 [info] 16753#16753: *1061 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "ÿî$cª)È!QÎ'Ùkﬁ>¸Öh™H#ìqãWÇèO&∞() ú4Ú>?ÁMãØµ Âb∑„õz]áú%t/+‚"
+2016/12/17 14:45:49 [info] 16753#16753: *1064 client 185.93.1.58 closed keepalive connection
+2016/12/17 19:21:19 [info] 16753#16753: *1066 client 77.244.213.197 closed keepalive connection
+2016/12/18 03:26:42 [info] 16753#16753: *1076 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/12/18 03:26:42 [info] 16753#16753: *1076 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/12/18 03:27:06 [info] 16753#16753: *1077 client closed connection while waiting for request, client: 139.162.13.205, server: 0.0.0.0:80
+2016/12/18 08:47:36 [info] 16753#16753: *1084 client 66.240.236.119 closed keepalive connection
+2016/12/18 08:47:37 [info] 16753#16753: *1085 client 66.240.236.119 closed keepalive connection (104: Connection reset by peer)
+2016/12/18 08:47:37 [info] 16753#16753: *1086 client 66.240.236.119 closed keepalive connection (104: Connection reset by peer)
+2016/12/18 11:59:25 [info] 16753#16753: *1087 client 169.54.244.75 closed keepalive connection
+2016/12/18 13:24:20 [info] 16753#16753: *1117 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.112, server: _, request: "GET /x HTTP/1.1"
+2016/12/18 13:45:09 [info] 16753#16753: *1119 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "*Ë≥n’Lë–g›T„~CÆñ>P≠(ﬂù∑äÆ#ÌµÃ·∆&tûf•1Õ<S‚HÚ•y¿ˇI'◊/=¡0äç∫"
+2016/12/18 16:07:04 [info] 16753#16753: *1120 client closed connection while waiting for request, client: 14.63.163.20, server: 0.0.0.0:80
+2016/12/18 16:07:04 [info] 16753#16753: *1121 client 14.63.163.20 closed keepalive connection
+2016/12/18 16:36:40 [info] 16753#16753: *1122 client 62.210.149.68 closed keepalive connection
+2016/12/18 20:26:27 [info] 16753#16753: *1131 client 169.54.233.120 closed keepalive connection
+2016/12/19 01:53:29 [info] 16753#16753: *1137 client sent invalid request while reading client request line, client: 80.82.64.21, server: _, request: "GET  HTTP/1.1"
+2016/12/19 13:07:04 [info] 16753#16753: *1150 client 1.174.137.247 closed keepalive connection
+2016/12/19 13:16:12 [info] 16753#16753: *1151 client 177.206.131.139 closed keepalive connection
+2016/12/19 15:21:04 [info] 16753#16753: *1152 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2016/12/19 15:21:04 [info] 16753#16753: *1153 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/19 15:21:04 [info] 16753#16753: *1154 client 212.129.62.79 closed keepalive connection
+2016/12/19 15:21:04 [info] 16753#16753: *1156 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2016/12/19 15:21:04 [info] 16753#16753: *1158 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/19 15:21:04 [info] 16753#16753: *1157 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2016/12/19 15:21:04 [info] 16753#16753: *1159 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/19 15:21:04 [info] 16753#16753: *1160 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/19 15:21:04 [info] 16753#16753: *1155 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:04 [info] 16753#16753: *1161 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/19 15:21:05 [info] 16753#16753: *1162 client 212.129.62.79 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1165 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1167 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1166 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1168 client 212.129.62.79 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1163 client 212.129.62.79 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1164 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1171 client 212.129.62.79 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1169 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1170 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1172 client 212.129.62.79 closed keepalive connection
+2016/12/19 15:21:05 [info] 16753#16753: *1173 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:06 [info] 16753#16753: *1174 client 195.154.41.132 closed keepalive connection
+2016/12/19 15:21:06 [info] 16753#16753: *1175 client 195.154.41.132 closed keepalive connection
+2016/12/19 20:29:01 [info] 16753#16753: *1179 client closed connection while waiting for request, client: 188.0.236.152, server: 0.0.0.0:80
+2016/12/19 20:29:02 [info] 16753#16753: *1180 client 188.0.236.152 closed keepalive connection
+2016/12/19 20:29:03 [info] 16753#16753: *1181 client 188.0.236.152 closed keepalive connection
+2016/12/19 20:48:47 [info] 16753#16753: *1182 client closed connection while waiting for request, client: 198.16.54.114, server: 0.0.0.0:80
+2016/12/19 20:48:47 [info] 16753#16753: *1184 client 198.16.54.114 closed keepalive connection
+2016/12/19 20:48:47 [info] 16753#16753: *1187 client 198.16.54.114 closed keepalive connection
+2016/12/20 00:28:50 [info] 16753#16753: *1198 client timed out (110: Connection timed out) while waiting for request, client: 50.233.203.154, server: 0.0.0.0:80
+2016/12/20 03:35:54 [info] 16753#16753: *1199 client closed connection while waiting for request, client: 191.190.101.58, server: 0.0.0.0:80
+2016/12/21 04:59:58 [info] 16753#16753: *1214 client 203.238.187.71 closed keepalive connection (104: Connection reset by peer)
+2016/12/21 05:27:08 [info] 16753#16753: *1215 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 45.127.101.32, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2016/12/21 08:20:33 [info] 16753#16753: *1218 client 54.161.51.139 closed keepalive connection
+2016/12/21 08:20:33 [info] 16753#16753: *1219 client 54.161.51.139 closed keepalive connection
+2016/12/21 10:38:12 [info] 16753#16753: *1222 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 192.241.219.177, server: _, request: "OPTIONS / HTTP/1.1"
+2016/12/21 10:38:12 [info] 16753#16753: *1223 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 45.55.5.6, server: _, request: "HEAD / HTTP/1.1"
+2016/12/21 10:38:17 [info] 16753#16753: *1224 client closed connection while waiting for request, client: 104.131.150.92, server: 0.0.0.0:80
+2016/12/21 13:17:52 [info] 16753#16753: *1227 client 113.113.121.157 closed keepalive connection
+2016/12/21 14:04:54 [info] 16753#16753: *1228 client 52.199.224.226 closed keepalive connection
+2016/12/21 14:53:19 [info] 16753#16753: *1229 recv() failed (104: Connection reset by peer) while sending response to client, client: 101.200.194.132, server: _, request: "GET / HTTP/1.1", host: "13.54.126.185:80"
+2016/12/21 18:19:15 [info] 16753#16753: *1231 client timed out (110: Connection timed out) while waiting for request, client: 182.58.237.187, server: 0.0.0.0:80
+2016/12/21 18:22:25 [info] 16753#16753: *1232 client closed connection while waiting for request, client: 92.50.64.234, server: 0.0.0.0:80
+2016/12/21 18:23:43 [info] 16753#16753: *1233 client 180.97.106.162 closed keepalive connection
+2016/12/21 18:36:51 [info] 16753#16753: *1234 client timed out (110: Connection timed out) while waiting for request, client: 23.247.27.90, server: 0.0.0.0:80
+2016/12/22 02:39:39 [info] 16753#16753: *1297 recv() failed (104: Connection reset by peer), client: 62.210.181.161, server: _, request: "HEAD /robots.txt HTTP/1.0"
+2016/12/22 02:54:34 [info] 16753#16753: *1298 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " P¥£qR "
+2016/12/22 05:24:28 [info] 16753#16753: *1306 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " "
+2016/12/22 08:19:31 [info] 16753#16753: *1309 client 122.228.70.91 closed keepalive connection (104: Connection reset by peer)
+2016/12/22 10:17:59 [info] 16753#16753: *1310 client sent invalid method while reading client request line, client: 108.77.185.135, server: _, request: "è   ≠"
+2016/12/22 13:29:05 [info] 16753#16753: *1312 client closed connection while waiting for request, client: 36.63.247.221, server: 0.0.0.0:80
+2016/12/22 17:58:14 [info] 16753#16753: *1343 client timed out (110: Connection timed out) while waiting for request, client: 182.58.235.165, server: 0.0.0.0:80
+2016/12/22 18:20:06 [info] 16753#16753: *1344 client timed out (110: Connection timed out) while waiting for request, client: 182.58.235.165, server: 0.0.0.0:80
+2016/12/22 18:56:25 [info] 16753#16753: *1345 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2016/12/22 18:56:26 [info] 16753#16753: *1346 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2016/12/22 18:56:26 [info] 16753#16753: *1347 client 212.129.62.79 closed keepalive connection
+2016/12/22 18:56:26 [info] 16753#16753: *1348 client 212.129.62.79 closed keepalive connection
+2016/12/22 18:56:26 [info] 16753#16753: *1350 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2016/12/22 18:56:27 [info] 16753#16753: *1349 client 212.129.62.79 closed keepalive connection
+2016/12/22 18:56:27 [info] 16753#16753: *1351 client 212.129.62.79 closed keepalive connection
+2016/12/22 18:56:27 [info] 16753#16753: *1352 client 212.129.62.79 closed keepalive connection
+2016/12/22 18:56:27 [info] 16753#16753: *1353 client 212.129.62.79 closed keepalive connection
+2016/12/22 19:59:09 [info] 16753#16753: *1354 client 185.129.148.193 closed keepalive connection
+2016/12/23 19:16:53 [info] 16753#16753: *1361 client 14.134.2.6 closed keepalive connection
+2016/12/23 19:16:54 [info] 16753#16753: *1362 client 14.134.2.6 closed keepalive connection
+2016/12/23 19:16:55 [info] 16753#16753: *1363 client 14.134.2.6 closed keepalive connection
+2016/12/23 19:16:55 [info] 16753#16753: *1364 client 14.134.2.6 closed keepalive connection
+2016/12/23 19:17:01 [info] 16753#16753: *1359 client 14.134.2.6 closed keepalive connection
+2016/12/23 19:17:24 [info] 16753#16753: *1360 client timed out (110: Connection timed out) while waiting for request, client: 14.134.2.6, server: 0.0.0.0:80
+2016/12/23 19:20:20 [info] 16753#16753: *1366 client timed out (110: Connection timed out) while waiting for request, client: 182.58.165.245, server: 0.0.0.0:80
+2016/12/24 01:12:31 [info] 16753#16753: *1371 client sent invalid method while reading client request line, client: 91.193.74.65, server: _, request: "Ä  (0◊GÒ        Ü†                       "
+2016/12/24 22:03:39 [info] 16753#16753: *1376 client 115.231.222.145 closed keepalive connection
+2016/12/24 22:03:53 [info] 16753#16753: *1377 client 115.231.222.145 closed keepalive connection (104: Connection reset by peer)
+2016/12/24 22:31:15 [info] 16753#16753: *1378 client closed connection while waiting for request, client: 62.210.127.77, server: 0.0.0.0:80
+2016/12/25 02:20:06 [info] 16753#16753: *1381 client 201.183.237.8 closed keepalive connection
+2016/12/25 04:18:21 [info] 16753#16753: *1382 client closed connection while waiting for request, client: 179.153.230.8, server: 0.0.0.0:80
+2016/12/25 05:02:34 [info] 16753#16753: *1388 client sent invalid method while reading client request line, client: 71.201.148.100, server: _, request: "∆   †¿€À5W{Í¥¶=ÓI°˚1L˙˛o´∞ío;ÕÃb∑ÇUâ6ÜØ≥îOQG>9fi‡Ê}‘I•“0Y :˜˚ÌÕˇP|2(†ZeÓCoÃπy¨g†ò∆õÕ;∞)™¥ãH2˙å»Ö∏ÈŒ◊f˜∂"
+2016/12/25 07:47:27 [info] 16753#16753: *1389 client closed connection while waiting for request, client: 188.0.236.131, server: 0.0.0.0:80
+2016/12/25 07:47:28 [info] 16753#16753: *1390 client 188.0.236.131 closed keepalive connection
+2016/12/25 07:47:28 [info] 16753#16753: *1391 client 188.0.236.131 closed keepalive connection
+2016/12/25 09:04:52 [info] 16753#16753: *1392 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.65, server: _, request: "GET /x HTTP/1.1"
+2016/12/25 10:40:42 [info] 16753#16753: *1393 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "ù≥ï˙|B7:¨bLÛ¯!sŒÂOπËÄÉÒÊôœg:"
+2016/12/25 17:42:45 [info] 16753#16753: *1394 client timed out (110: Connection timed out) while waiting for request, client: 120.188.83.42, server: 0.0.0.0:80
+2016/12/25 19:25:06 [info] 16753#16753: *1395 client timed out (110: Connection timed out) while waiting for request, client: 182.58.227.116, server: 0.0.0.0:80
+2016/12/25 19:51:07 [info] 16753#16753: *1396 client timed out (110: Connection timed out) while waiting for request, client: 182.58.227.116, server: 0.0.0.0:80
+2016/12/25 21:48:55 [info] 16753#16753: *1399 client 198.20.69.74 closed keepalive connection (104: Connection reset by peer)
+2016/12/25 21:48:56 [info] 16753#16753: *1398 client 198.20.69.74 closed keepalive connection (104: Connection reset by peer)
+2016/12/25 21:48:57 [info] 16753#16753: *1397 client 198.20.69.74 closed keepalive connection
+2016/12/25 22:35:35 [info] 16753#16753: *1400 client closed connection while waiting for request, client: 31.172.95.161, server: 0.0.0.0:80
+2016/12/26 02:37:36 [info] 16753#16753: *1401 client timed out (110: Connection timed out) while waiting for request, client: 125.164.19.127, server: 0.0.0.0:80
+2016/12/26 10:44:21 [info] 16753#16753: *1409 client sent invalid method while reading client request line, client: 169.229.3.91, server: _, request: "PCÚØØº"
+2016/12/26 11:18:26 [info] 16753#16753: *1410 client 106.2.192.245 closed keepalive connection (104: Connection reset by peer)
+2016/12/26 16:28:50 [info] 16753#16753: *1411 client 54.158.62.102 closed keepalive connection
+2016/12/26 16:28:50 [info] 16753#16753: *1412 client 54.158.62.102 closed keepalive connection
+2016/12/26 21:45:31 [info] 16753#16753: *1413 client timed out (110: Connection timed out) while waiting for request, client: 122.224.153.109, server: 0.0.0.0:80
+2016/12/26 23:31:16 [info] 16753#16753: *1416 client 168.1.128.36 closed keepalive connection
+2016/12/27 09:45:27 [info] 16753#16753: *1453 client 168.1.128.51 closed keepalive connection
+2016/12/27 09:58:47 [info] 16753#16753: *1454 client closed connection while waiting for request, client: 185.159.37.124, server: 0.0.0.0:80
+2016/12/27 09:58:48 [info] 16753#16753: *1455 client 185.159.37.124 closed keepalive connection
+2016/12/27 09:58:48 [info] 16753#16753: *1456 client 185.159.37.124 closed keepalive connection
+2016/12/27 14:49:10 [info] 16753#16753: *1457 client 195.154.214.162 closed keepalive connection
+2016/12/27 15:13:32 [info] 16753#16753: *1458 client sent invalid method while reading client request line, client: 195.154.214.162, server: _, request: " å  à–®7¶íá" aﬂîñ/o–∞Ò\-ìŸÎü∂[«”∆  .¿+¿/ û ú¿"
+2016/12/27 15:13:32 [info] 16753#16753: *1458 recv() failed (104: Connection reset by peer) while reading client request line, client: 195.154.214.162, server: _, request: " å  à–®7¶íá" aﬂîñ/o–∞Ò\-ìŸÎü∂[«”∆  .¿+¿/ û ú¿"
+2016/12/27 15:58:22 [info] 16753#16753: *1459 client 111.73.46.169 closed keepalive connection
+2016/12/27 17:49:00 [info] 16753#16753: *1460 client 123.56.233.103 closed keepalive connection (104: Connection reset by peer)
+2016/12/27 21:20:07 [info] 16753#16753: *1461 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/27 21:20:07 [info] 16753#16753: *1462 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/27 21:20:08 [info] 16753#16753: *1463 client 195.154.41.132 closed keepalive connection
+2016/12/27 21:20:08 [info] 16753#16753: *1464 client 195.154.41.132 closed keepalive connection
+2016/12/27 21:20:09 [info] 16753#16753: *1465 client 195.154.41.132 closed keepalive connection
+2016/12/27 21:20:09 [info] 16753#16753: *1466 client 195.154.41.132 closed keepalive connection
+2016/12/28 04:53:10 [info] 16753#16753: *1469 client timed out (110: Connection timed out) while waiting for request, client: 122.224.153.109, server: 0.0.0.0:80
+2016/12/28 12:09:38 [info] 16753#16753: *1470 client closed connection while waiting for request, client: 185.40.4.185, server: 0.0.0.0:80
+2016/12/28 12:10:01 [info] 16753#16753: *1471 client closed connection while waiting for request, client: 185.40.4.185, server: 0.0.0.0:80
+2016/12/28 18:20:14 [info] 16753#16753: *1474 client 210.212.36.67 closed keepalive connection
+2016/12/28 18:20:38 [info] 16753#16753: *1475 client 180.97.106.37 closed keepalive connection
+2016/12/29 01:44:15 [info] 16753#16753: *1481 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 94.79.144.230, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2016/12/29 02:00:51 [info] 16753#16753: *1483 client closed connection while waiting for request, client: 187.22.49.122, server: 0.0.0.0:80
+2016/12/29 02:15:43 [info] 16753#16753: *1488 client sent invalid method while reading client request line, client: 180.97.106.161, server: _, request: " P¥£qR "
+2016/12/29 04:38:58 [info] 16753#16753: *1489 client sent invalid method while reading client request line, client: 180.97.106.162, server: _, request: " "
+2016/12/29 07:11:42 [info] 16753#16753: *1492 client closed connection while waiting for request, client: 202.67.35.25, server: 0.0.0.0:80
+2016/12/29 07:11:42 [info] 16753#16753: *1493 client closed connection while waiting for request, client: 202.67.35.25, server: 0.0.0.0:80
+2016/12/29 09:43:16 [info] 16753#16753: *1494 client 139.162.13.205 closed keepalive connection
+2016/12/29 09:43:19 [info] 16753#16753: *1495 client sent invalid method while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/12/29 09:43:19 [info] 16753#16753: *1495 recv() failed (104: Connection reset by peer) while reading client request line, client: 139.162.13.205, server: _, request: " "
+2016/12/29 10:34:08 [info] 16753#16753: *1497 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 177.10.200.122, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2016/12/29 10:34:08 [info] 16753#16753: *1497 recv() failed (104: Connection reset by peer) while reading client request headers, client: 177.10.200.122, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2016/12/29 17:50:13 [info] 16753#16753: *1500 client 5.249.158.145 closed keepalive connection
+2016/12/29 21:59:45 [info] 16753#16753: *1505 client timed out (110: Connection timed out) while waiting for request, client: 122.224.153.109, server: 0.0.0.0:80
+2016/12/29 22:28:17 [info] 16753#16753: *1506 client sent invalid method while reading client request line, client: 68.71.44.82, server: _, request: "∆   $=âó; (~–V∞)Ìãß˝=ZŸq∞Ä.bn$`Y∑K»ˆƒÙ…Ÿ Á•-åac"
+2016/12/30 04:46:33 [info] 16753#16753: *1508 client closed connection while waiting for request, client: 185.159.37.126, server: 0.0.0.0:80
+2016/12/30 04:46:33 [info] 16753#16753: *1509 client 185.159.37.126 closed keepalive connection
+2016/12/30 04:46:34 [info] 16753#16753: *1510 client 185.159.37.126 closed keepalive connection
+2016/12/30 05:23:13 [info] 16753#16753: *1511 client 196.221.206.10 closed keepalive connection
+2016/12/30 08:32:00 [info] 16753#16753: *1514 client 217.118.84.185 closed keepalive connection
+2016/12/30 10:31:56 [info] 16753#16753: *1518 client 115.112.64.154 closed keepalive connection
+2016/12/30 10:32:02 [info] 16753#16753: *1519 client 115.112.64.154 closed keepalive connection
+2016/12/30 20:05:36 [info] 16753#16753: *1520 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 184.75.210.250, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2016/12/30 20:37:57 [info] 16753#16753: *1521 client timed out (110: Connection timed out) while waiting for request, client: 122.224.153.109, server: 0.0.0.0:80
+2016/12/31 06:57:32 [info] 16753#16753: *1529 client 222.186.21.211 closed keepalive connection (104: Connection reset by peer)
+2016/12/31 15:11:11 [info] 16753#16753: *1533 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2016/12/31 15:11:12 [info] 16753#16753: *1535 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/31 15:11:12 [info] 16753#16753: *1534 client 212.129.62.79 closed keepalive connection
+2016/12/31 15:11:12 [info] 16753#16753: *1536 client 195.154.41.132 closed keepalive connection
+2016/12/31 15:11:12 [info] 16753#16753: *1537 client 212.129.62.79 closed keepalive connection
+2016/12/31 15:11:12 [info] 16753#16753: *1539 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/31 15:11:12 [info] 16753#16753: *1538 client 195.154.41.132 closed keepalive connection
+2016/12/31 15:11:12 [info] 16753#16753: *1540 client 195.154.41.132 closed keepalive connection
+2016/12/31 15:11:13 [info] 16753#16753: *1541 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2016/12/31 15:11:13 [info] 16753#16753: *1542 client 195.154.41.132 closed keepalive connection
+2016/12/31 15:11:13 [info] 16753#16753: *1543 client 195.154.41.132 closed keepalive connection
+2016/12/31 15:11:13 [info] 16753#16753: *1544 client 195.154.41.132 closed keepalive connection
+2016/12/31 17:13:05 [info] 16753#16753: *1546 client 185.8.50.245 closed keepalive connection
+2016/12/31 20:44:57 [info] 16753#16753: *1553 client 80.82.64.109 closed keepalive connection (104: Connection reset by peer)
+2017/01/01 06:03:25 [info] 16753#16753: *1558 client closed connection while waiting for request, client: 185.159.37.125, server: 0.0.0.0:80
+2017/01/01 06:03:26 [info] 16753#16753: *1559 client 185.159.37.125 closed keepalive connection
+2017/01/01 06:03:26 [info] 16753#16753: *1560 client 185.159.37.125 closed keepalive connection
+2017/01/01 12:19:19 [info] 16753#16753: *1564 client sent invalid method while reading client request line, client: 72.65.101.164, server: _, request: "è   @ß]ïåûdì£Ÿ§Æm"œùº⁄†9ä°úΩ1 n8@±'#µ˘ûv5’+*%‡Lì§{c+•¡sê~àyLÿπmåOÀ◊L"
+2017/01/01 12:40:01 [info] 16753#16753: *1566 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.96, server: _, request: "GET /x HTTP/1.1"
+2017/01/02 00:58:10 [info] 16753#16753: *1569 client 123.30.249.78 closed keepalive connection
+2017/01/02 01:06:35 [info] 16753#16753: *1570 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.45, server: 0.0.0.0:80
+2017/01/02 01:06:35 [info] 16753#16753: *1571 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.45, server: 0.0.0.0:80
+2017/01/02 01:06:35 [info] 16753#16753: *1572 client timed out (110: Connection timed out) while waiting for request, client: 202.67.46.45, server: 0.0.0.0:80
+2017/01/02 02:59:44 [info] 16753#16753: *1575 client closed connection while waiting for request, client: 191.191.151.42, server: 0.0.0.0:80
+2017/01/02 05:51:49 [info] 16753#16753: *1580 client closed connection while waiting for request, client: 185.159.37.123, server: 0.0.0.0:80
+2017/01/02 05:51:49 [info] 16753#16753: *1581 client 185.159.37.123 closed keepalive connection
+2017/01/02 05:51:50 [info] 16753#16753: *1582 client 185.159.37.123 closed keepalive connection
+2017/01/02 13:40:14 [info] 16753#16753: *1586 client 222.186.31.15 closed keepalive connection (104: Connection reset by peer)
+2017/01/02 14:18:35 [info] 16753#16753: *1587 client 217.118.84.185 closed keepalive connection
+2017/01/02 14:34:24 [info] 16753#16753: *1590 client sent invalid method while reading client request line, client: 173.165.216.1, server: _, request: "è   ≠"
+2017/01/02 21:17:37 [info] 16753#16753: *1591 client 54.161.51.139 closed keepalive connection
+2017/01/02 21:17:37 [info] 16753#16753: *1592 client 54.161.51.139 closed keepalive connection
+2017/01/02 21:32:40 [info] 16753#16753: *1594 client closed connection while waiting for request, client: 185.159.37.125, server: 0.0.0.0:80
+2017/01/02 21:32:41 [info] 16753#16753: *1595 client 185.159.37.125 closed keepalive connection
+2017/01/02 21:32:41 [info] 16753#16753: *1596 client 185.159.37.125 closed keepalive connection
+2017/01/02 23:33:39 [info] 16753#16753: *1598 client sent invalid method while reading client request line, client: 24.158.236.177, server: _, request: "∆   †¿€À5W{Í¥¶=ÓI°˚1L˙˛o´∞ío;ÕÃb∑ÇUâ6ÜØ≥îOQG>9fi‡Ê}‘I•“0Y :˜˚ÌÕˇP|2(†ZeÓCoÃπy¨g†ò∆õÕ;∞)™¥ãH2˙å»Ö∏ÈŒ◊f˜∂"
+2017/01/03 04:32:22 [info] 16753#16753: *1599 client timed out (110: Connection timed out) while waiting for request, client: 106.39.60.186, server: 0.0.0.0:80
+2017/01/03 08:41:36 [info] 16753#16753: *1606 client 198.20.69.74 closed keepalive connection (104: Connection reset by peer)
+2017/01/03 08:42:00 [info] 16753#16753: *1604 client 198.20.69.74 closed keepalive connection
+2017/01/03 08:42:00 [info] 16753#16753: *1605 client 198.20.69.74 closed keepalive connection (104: Connection reset by peer)
+2017/01/03 10:58:07 [info] 16753#16753: *1608 client closed connection while waiting for request, client: 139.255.76.118, server: 0.0.0.0:80
+2017/01/03 23:01:12 [info] 16753#16753: *1614 client 52.197.92.81 closed keepalive connection
+2017/01/03 23:05:30 [info] 16753#16753: *1615 client 180.151.61.232 closed keepalive connection
+2017/01/03 23:13:26 [info] 16753#16753: *1616 client 88.99.61.199 closed keepalive connection
+2017/01/04 00:07:09 [info] 16753#16753: *1617 client 118.193.163.159 closed keepalive connection
+2017/01/04 00:25:30 [info] 16753#16753: *1618 client 5.196.41.75 closed keepalive connection
+2017/01/04 01:25:02 [info] 16753#16753: *1619 client 111.100.161.33 closed keepalive connection
+2017/01/04 02:31:34 [info] 16753#16753: *1620 client 201.144.146.2 closed keepalive connection
+2017/01/04 02:46:59 [info] 16753#16753: *1621 client 197.221.118.9 closed keepalive connection
+2017/01/04 03:20:58 [info] 16753#16753: *1622 client 173.87.67.178 closed keepalive connection (104: Connection reset by peer)
+2017/01/04 03:57:40 [info] 16753#16753: *1623 client 82.127.122.187 closed keepalive connection
+2017/01/04 04:11:07 [info] 16753#16753: *1624 client 197.221.118.9 closed keepalive connection
+2017/01/04 04:48:38 [info] 16753#16753: *1626 client 217.160.167.202 closed keepalive connection
+2017/01/04 05:53:17 [info] 16753#16753: *1627 client 190.248.156.50 closed keepalive connection
+2017/01/04 05:53:38 [info] 16753#16753: *1628 client 177.11.241.134 closed keepalive connection
+2017/01/04 06:59:23 [info] 16753#16753: *1629 client 140.117.168.135 closed keepalive connection
+2017/01/04 10:03:09 [info] 16753#16753: *1631 client 91.218.113.239 closed keepalive connection
+2017/01/04 10:07:35 [info] 16753#16753: *1632 client 200.189.105.187 closed keepalive connection
+2017/01/04 10:18:53 [info] 16753#16753: *1633 client 201.72.97.18 closed keepalive connection
+2017/01/04 10:25:59 [info] 16753#16753: *1634 client 187.0.182.98 closed keepalive connection
+2017/01/04 10:40:35 [info] 16753#16753: *1636 client sent invalid method while reading client request line, client: 75.115.120.143, server: _, request: "è   @ß]ïåûdì£Ÿ§Æm"œùº⁄†9ä°úΩ1 n8@±'#µ˘ûv5’+*%‡Lì§{c+•¡sê~àyLÿπmåOÀ◊L"
+2017/01/04 11:05:06 [info] 16753#16753: *1637 client 89.187.142.221 closed keepalive connection
+2017/01/04 11:06:05 [info] 16753#16753: *1638 client 5.30.34.70 closed keepalive connection
+2017/01/04 11:06:19 [info] 16753#16753: *1639 client 54.69.172.102 closed keepalive connection
+2017/01/04 11:07:11 [info] 16753#16753: *1640 client 52.38.130.49 closed keepalive connection
+2017/01/04 11:19:51 [info] 16753#16753: *1641 client 177.148.207.71 closed keepalive connection
+2017/01/04 12:04:39 [info] 16753#16753: *1642 client 211.25.19.86 closed keepalive connection
+2017/01/04 12:30:02 [info] 16753#16753: *1643 client 194.208.72.209 closed keepalive connection
+2017/01/04 13:27:07 [info] 16753#16753: *1644 client 190.152.144.106 closed keepalive connection
+2017/01/04 14:58:22 [info] 16753#16753: *1645 client 190.39.129.213 closed keepalive connection
+2017/01/04 15:07:15 [info] 16753#16753: *1646 recv() failed (104: Connection reset by peer), client: 62.210.181.161, server: _, request: "HEAD /robots.txt HTTP/1.0"
+2017/01/04 15:29:38 [info] 16753#16753: *1649 client 124.45.118.180 closed keepalive connection
+2017/01/04 15:30:57 [info] 16753#16753: *1650 client 103.48.80.36 closed keepalive connection
+2017/01/04 15:31:17 [info] 16753#16753: *1651 client 58.153.49.94 closed keepalive connection
+2017/01/04 15:38:43 [info] 16753#16753: *1652 client 51.255.92.97 closed keepalive connection
+2017/01/04 15:39:48 [info] 16753#16753: *1653 client 177.185.129.22 closed keepalive connection
+2017/01/04 15:41:00 [info] 16753#16753: *1654 client sent invalid method while reading client request line, client: 104.0.227.72, server: _, request: "∆   †¿€À5W{Í¥¶=ÓI°˚1L˙˛o´∞ío;ÕÃb∑ÇUâ6ÜØ≥îOQG>9fi‡Ê}‘I•“0Y :˜˚ÌÕˇP|2(†ZeÓCoÃπy¨g†ò∆õÕ;∞)™¥ãH2˙å»Ö∏ÈŒ◊f˜∂"
+2017/01/04 15:44:57 [info] 16753#16753: *1655 client 217.195.72.45 closed keepalive connection
+2017/01/04 15:51:24 [info] 16753#16753: *1656 client 222.186.52.112 closed keepalive connection (104: Connection reset by peer)
+2017/01/04 16:39:49 [info] 16753#16753: *1657 client 218.56.179.94 closed keepalive connection
+2017/01/04 16:42:23 [info] 16753#16753: *1658 client 50.200.12.31 closed keepalive connection
+2017/01/04 17:03:13 [info] 16753#16753: *1659 client 178.217.153.130 closed keepalive connection
+2017/01/04 17:05:19 [info] 16753#16753: *1660 client 190.202.45.118 closed keepalive connection
+2017/01/04 17:43:48 [info] 16753#16753: *1661 client timed out (110: Connection timed out) while waiting for request, client: 182.58.160.164, server: 0.0.0.0:80
+2017/01/04 17:43:58 [info] 16753#16753: *1662 client 72.11.150.248 closed keepalive connection
+2017/01/04 17:44:57 [info] 16753#16753: *1663 client 54.200.110.114 closed keepalive connection
+2017/01/04 17:46:32 [info] 16753#16753: *1664 client 35.162.166.183 closed keepalive connection
+2017/01/04 17:53:25 [info] 16753#16753: *1665 client timed out (110: Connection timed out) while waiting for request, client: 182.58.160.164, server: 0.0.0.0:80
+2017/01/04 17:58:10 [info] 16753#16753: *1666 client 180.97.106.37 closed keepalive connection
+2017/01/04 18:15:40 [info] 16753#16753: *1667 client timed out (110: Connection timed out) while waiting for request, client: 182.58.230.149, server: 0.0.0.0:80
+2017/01/04 18:55:39 [info] 16753#16753: *1669 client 119.18.156.210 closed keepalive connection
+2017/01/04 18:56:46 [info] 16753#16753: *1670 client 118.160.51.30 closed keepalive connection
+2017/01/04 20:05:54 [info] 16753#16753: *1672 client 189.26.111.140 closed keepalive connection
+2017/01/04 21:52:45 [info] 16753#16753: *1673 client 186.195.95.31 closed keepalive connection (104: Connection reset by peer)
+2017/01/04 22:39:21 [error] 16753#16753: *1674 open() "/home/ubuntu/karups/django/testapp/testapp//.gitignore" failed (2: No such file or directory), client: 169.229.3.91, server: _, request: "GET /static/.gitignore HTTP/1.1", host: "54.169.91.231"
+2017/01/04 22:39:21 [info] 16753#16753: *1674 client prematurely closed connection while reading client pipelined request line, client: 169.229.3.91, server: _
+2017/01/05 01:20:15 [info] 16753#16753: *1676 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " P¥£qR "
+2017/01/05 02:39:27 [info] 16753#16753: *1677 client 146.0.228.110 closed keepalive connection
+2017/01/05 03:58:01 [info] 16753#16753: *1678 client sent invalid method while reading client request line, client: 180.97.106.161, server: _, request: " "
+2017/01/05 12:51:43 [info] 16753#16753: *1685 client timed out (110: Connection timed out) while waiting for request, client: 120.188.82.3, server: 0.0.0.0:80
+2017/01/05 12:51:54 [info] 16753#16753: *1686 client timed out (110: Connection timed out) while waiting for request, client: 120.188.82.3, server: 0.0.0.0:80
+2017/01/05 15:29:41 [info] 16753#16753: *1687 client sent invalid request while reading client request line, client: 1.214.89.69, server: _, request: "GET <title>phpMyAdmin HTTP/1.1"
+2017/01/05 22:09:42 [info] 16753#16753: *1715 client 89.248.174.37 closed keepalive connection
+2017/01/05 23:48:00 [info] 16753#16753: *1717 client 220.181.159.73 closed keepalive connection
+2017/01/06 00:10:15 [info] 16753#16753: *1718 client 220.181.159.73 closed keepalive connection
+2017/01/06 00:10:17 [info] 16753#16753: *1719 client 220.181.159.73 closed keepalive connection
+2017/01/06 00:44:50 [info] 16753#16753: *1720 client 201.254.44.17 closed keepalive connection (104: Connection reset by peer)
+2017/01/06 02:34:55 [info] 16753#16753: *1721 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 94.79.144.230, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2017/01/06 13:06:59 [info] 16753#16753: *1722 client 183.224.166.241 closed keepalive connection (104: Connection reset by peer)
+2017/01/06 14:39:04 [info] 16753#16753: *1723 client closed connection while waiting for request, client: 185.159.37.126, server: 0.0.0.0:80
+2017/01/06 14:39:04 [info] 16753#16753: *1724 client 185.159.37.126 closed keepalive connection
+2017/01/06 14:39:05 [info] 16753#16753: *1725 client 185.159.37.126 closed keepalive connection
+2017/01/06 18:30:54 [info] 16753#16753: *1726 client timed out (110: Connection timed out) while waiting for request, client: 182.58.249.152, server: 0.0.0.0:80
+2017/01/06 23:04:47 [info] 16753#16753: *1730 client closed connection while waiting for request, client: 177.33.68.32, server: 0.0.0.0:80
+2017/01/07 02:09:36 [info] 16753#16753: *1737 client 168.232.80.9 closed keepalive connection (104: Connection reset by peer)
+2017/01/07 17:34:36 [info] 16753#16753: *1742 client timed out (110: Connection timed out) while waiting for request, client: 182.58.195.219, server: 0.0.0.0:80
+2017/01/07 17:54:06 [info] 16753#16753: *1743 client timed out (110: Connection timed out) while waiting for request, client: 182.58.195.219, server: 0.0.0.0:80
+2017/01/07 20:36:30 [info] 16753#16753: *1746 client 146.0.228.110 closed keepalive connection
+2017/01/07 21:24:26 [info] 16753#16753: *1748 client 54.159.121.78 closed keepalive connection
+2017/01/07 21:24:26 [info] 16753#16753: *1747 client 54.159.121.78 closed keepalive connection
+2017/01/08 02:25:27 [info] 16753#16753: *1749 client 205.237.248.10 closed keepalive connection
+2017/01/08 03:56:01 [info] 16753#16753: *1750 client closed connection while waiting for request, client: 188.0.236.122, server: 0.0.0.0:80
+2017/01/08 03:56:02 [info] 16753#16753: *1751 client 188.0.236.122 closed keepalive connection
+2017/01/08 03:56:03 [info] 16753#16753: *1752 client 188.0.236.122 closed keepalive connection
+2017/01/08 09:20:24 [info] 16753#16753: *1755 client 198.20.69.98 closed keepalive connection
+2017/01/08 09:20:25 [info] 16753#16753: *1757 client 198.20.69.98 closed keepalive connection (104: Connection reset by peer)
+2017/01/08 13:32:20 [info] 16753#16753: *1760 client timed out (110: Connection timed out) while waiting for request, client: 182.58.197.168, server: 0.0.0.0:80
+2017/01/08 19:48:38 [info] 16753#16753: *1765 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.81, server: _, request: "GET /x HTTP/1.1"
+2017/01/09 03:01:18 [info] 16753#16753: *1767 client 169.54.244.93 closed keepalive connection
+2017/01/09 03:23:45 [info] 16753#16753: *1768 client closed connection while waiting for request, client: 188.0.236.122, server: 0.0.0.0:80
+2017/01/09 03:23:46 [info] 16753#16753: *1769 client 188.0.236.122 closed keepalive connection
+2017/01/09 03:23:47 [info] 16753#16753: *1770 client 188.0.236.122 closed keepalive connection
+2017/01/09 03:49:58 [info] 16753#16753: *1771 client 61.147.110.23 closed keepalive connection
+2017/01/09 13:18:15 [info] 16753#16753: *1776 client 169.54.233.124 closed keepalive connection
+2017/01/09 23:07:22 [info] 16753#16753: *1783 client 186.56.164.205 closed keepalive connection (104: Connection reset by peer)
+2017/01/10 00:39:10 [info] 16753#16753: *1784 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2017/01/10 00:39:10 [info] 16753#16753: *1785 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2017/01/10 00:39:10 [info] 16753#16753: *1786 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2017/01/10 00:39:10 [info] 16753#16753: *1787 client 195.154.41.132 closed keepalive connection
+2017/01/10 00:39:11 [info] 16753#16753: *1788 client 212.129.62.79 closed keepalive connection
+2017/01/10 00:39:11 [info] 16753#16753: *1789 client 195.154.41.132 closed keepalive connection
+2017/01/10 00:39:11 [info] 16753#16753: *1790 client 195.154.41.132 closed keepalive connection
+2017/01/10 00:39:11 [info] 16753#16753: *1791 client 212.129.62.79 closed keepalive connection
+2017/01/10 00:39:11 [info] 16753#16753: *1792 client 195.154.41.132 closed keepalive connection
+2017/01/10 16:51:00 [info] 16753#16753: *1808 client timed out (110: Connection timed out) while waiting for request, client: 182.58.231.86, server: 0.0.0.0:80
+2017/01/10 17:12:19 [info] 16753#16753: *1810 client timed out (110: Connection timed out) while waiting for request, client: 182.58.231.86, server: 0.0.0.0:80
+2017/01/10 18:30:40 [info] 16753#16753: *1812 client timed out (110: Connection timed out) while waiting for request, client: 182.58.231.86, server: 0.0.0.0:80
+2017/01/11 02:01:42 [info] 16753#16753: *1815 client 37.58.52.30 closed keepalive connection
+2017/01/11 06:54:13 [info] 16753#16753: *1816 client 37.229.253.9 closed keepalive connection (104: Connection reset by peer)
+2017/01/11 15:09:11 [info] 16753#16753: *1819 client closed connection while waiting for request, client: 198.16.54.114, server: 0.0.0.0:80
+2017/01/11 15:09:11 [info] 16753#16753: *1821 client 198.16.54.114 closed keepalive connection
+2017/01/11 15:09:12 [info] 16753#16753: *1824 client 198.16.54.114 closed keepalive connection
+2017/01/11 15:22:28 [info] 16753#16753: *1835 client closed connection while waiting for request, client: 189.33.165.58, server: 0.0.0.0:80
+2017/01/11 16:25:24 [info] 16753#16753: *1840 recv() failed (104: Connection reset by peer), client: 62.210.181.161, server: _, request: "HEAD /robots.txt HTTP/1.0"
+2017/01/11 18:02:33 [info] 16753#16753: *1844 client 180.97.106.161 closed keepalive connection
+2017/01/11 22:54:24 [info] 16753#16753: *1846 client 191.82.64.180 closed keepalive connection (104: Connection reset by peer)
+2017/01/12 02:33:42 [info] 16753#16753: *1850 client sent invalid method while reading client request line, client: 180.97.106.161, server: _, request: " P¥£qR "
+2017/01/12 02:51:38 [info] 16753#16753: *1851 client closed connection while waiting for request, client: 185.153.197.192, server: 0.0.0.0:80
+2017/01/12 02:51:39 [info] 16753#16753: *1852 client 185.153.197.192 closed keepalive connection
+2017/01/12 02:51:40 [info] 16753#16753: *1853 client 185.153.197.192 closed keepalive connection
+2017/01/12 05:03:13 [info] 16753#16753: *1854 client sent invalid method while reading client request line, client: 72.179.162.110, server: _, request: "∆   †¿€À5W{Í¥¶=ÓI°˚1L˙˛o´∞ío;ÕÃb∑ÇUâ6ÜØ≥îOQG>9fi‡Ê}‘I•“0Y :˜˚ÌÕˇP|2(†ZeÓCoÃπy¨g†ò∆õÕ;∞)™¥ãH2˙å»Ö∏ÈŒ◊f˜∂"
+2017/01/12 05:13:07 [info] 16753#16753: *1855 client sent invalid method while reading client request line, client: 180.97.106.162, server: _, request: " "
+2017/01/12 13:34:18 [info] 16753#16753: *1860 client 140.237.180.100 closed keepalive connection
+2017/01/12 13:43:54 [info] 16753#16753: *1862 client 195.154.41.132 closed keepalive connection
+2017/01/12 13:43:54 [info] 16753#16753: *1863 client 195.154.41.132 closed keepalive connection
+2017/01/12 21:06:39 [info] 16753#16753: *1874 client closed connection while waiting for request, client: 180.245.133.108, server: 0.0.0.0:80
+2017/01/12 21:06:39 [info] 16753#16753: *1875 client closed connection while waiting for request, client: 180.245.133.108, server: 0.0.0.0:80
+2017/01/12 21:51:29 [info] 16753#16753: *1884 client 185.40.4.14 closed keepalive connection
+2017/01/13 06:11:11 [info] 16753#16753: *1888 client 80.15.96.63 closed keepalive connection (104: Connection reset by peer)
+2017/01/13 11:32:40 [info] 16753#16753: *1889 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2017/01/13 11:32:40 [info] 16753#16753: *1890 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2017/01/13 11:32:40 [info] 16753#16753: *1892 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2017/01/13 11:32:40 [info] 16753#16753: *1894 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2017/01/13 11:32:41 [info] 16753#16753: *1893 client 195.154.41.132 closed keepalive connection
+2017/01/13 11:32:41 [info] 16753#16753: *1891 client 195.154.41.132 closed keepalive connection
+2017/01/13 11:32:41 [info] 16753#16753: *1896 client 195.154.41.132 closed keepalive connection
+2017/01/13 11:32:41 [info] 16753#16753: *1897 client 195.154.41.132 closed keepalive connection
+2017/01/13 11:32:42 [info] 16753#16753: *1895 client 212.129.62.79 closed keepalive connection
+2017/01/13 11:32:42 [info] 16753#16753: *1898 client 195.154.41.132 closed keepalive connection
+2017/01/13 11:32:42 [info] 16753#16753: *1899 client 212.129.62.79 closed keepalive connection
+2017/01/13 11:32:42 [info] 16753#16753: *1900 client 195.154.41.132 closed keepalive connection
+2017/01/13 18:56:21 [info] 16753#16753: *1904 client timed out (110: Connection timed out) while waiting for request, client: 182.58.212.151, server: 0.0.0.0:80
+2017/01/13 19:14:45 [info] 16753#16753: *1906 client sent invalid method while reading client request line, client: 122.224.32.35, server: _, request: "Ä4      9  8  3  2      5  /  "
+2017/01/13 19:14:45 [info] 16753#16753: *1906 recv() failed (104: Connection reset by peer) while reading client request line, client: 122.224.32.35, server: _, request: "Ä4      9  8  3  2      5  /  "
+2017/01/13 19:15:19 [info] 16753#16753: *1905 client timed out (110: Connection timed out) while waiting for request, client: 182.58.212.151, server: 0.0.0.0:80
+2017/01/13 19:36:03 [info] 16753#16753: *1907 client timed out (110: Connection timed out) while waiting for request, client: 182.58.212.151, server: 0.0.0.0:80
+2017/01/14 05:47:36 [info] 16753#16753: *1922 client timed out (110: Connection timed out) while waiting for request, client: 182.58.219.186, server: 0.0.0.0:80
+2017/01/14 06:03:18 [info] 16753#16753: *1923 client timed out (110: Connection timed out) while waiting for request, client: 182.58.219.186, server: 0.0.0.0:80
+2017/01/14 06:04:56 [info] 16753#16753: *1924 client timed out (110: Connection timed out) while waiting for request, client: 182.58.219.186, server: 0.0.0.0:80
+2017/01/14 06:05:07 [info] 16753#16753: *1925 client timed out (110: Connection timed out) while waiting for request, client: 182.58.219.186, server: 0.0.0.0:80
+2017/01/14 07:11:00 [info] 16753#16753: *1926 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.138, server: 0.0.0.0:80
+2017/01/14 07:11:35 [info] 16753#16753: *1927 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.138, server: 0.0.0.0:80
+2017/01/14 07:39:13 [info] 16753#16753: *1928 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.138, server: 0.0.0.0:80
+2017/01/14 07:59:52 [info] 16753#16753: *1931 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.138, server: 0.0.0.0:80
+2017/01/14 08:23:56 [info] 16753#16753: *1932 client timed out (110: Connection timed out) while waiting for request, client: 182.58.185.138, server: 0.0.0.0:80
+2017/01/14 09:57:35 [info] 16753#16753: *1934 client 122.224.32.35 closed keepalive connection
+2017/01/14 10:56:09 [info] 16753#16753: *1935 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2017/01/14 10:56:09 [info] 16753#16753: *1936 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2017/01/14 10:56:09 [info] 16753#16753: *1939 client closed connection while waiting for request, client: 212.129.62.79, server: 0.0.0.0:80
+2017/01/14 10:56:09 [info] 16753#16753: *1937 client 195.154.41.132 closed keepalive connection
+2017/01/14 10:56:10 [info] 16753#16753: *1938 client 212.129.62.79 closed keepalive connection
+2017/01/14 10:56:10 [info] 16753#16753: *1940 client 212.129.62.79 closed keepalive connection
+2017/01/14 10:56:10 [info] 16753#16753: *1941 client 195.154.41.132 closed keepalive connection
+2017/01/14 10:56:10 [info] 16753#16753: *1942 client 212.129.62.79 closed keepalive connection
+2017/01/14 10:56:10 [info] 16753#16753: *1943 client 212.129.62.79 closed keepalive connection
+2017/01/14 16:05:03 [info] 16753#16753: *1944 client 67.229.97.114 closed keepalive connection
+2017/01/14 16:06:51 [info] 16753#16753: *1945 client 67.229.97.114 closed keepalive connection
+2017/01/14 16:15:33 [info] 16753#16753: *1946 client 67.229.97.114 closed keepalive connection
+2017/01/14 16:18:04 [info] 16753#16753: *1947 client 67.229.97.114 closed keepalive connection
+2017/01/14 16:22:47 [info] 16753#16753: *1948 client 67.229.97.114 closed keepalive connection
+2017/01/14 17:21:54 [info] 16753#16753: *1949 client 67.229.97.114 closed keepalive connection
+2017/01/15 04:18:54 [info] 16753#16753: *1957 client 109.6.117.69 closed keepalive connection (104: Connection reset by peer)
+2017/01/15 04:55:28 [info] 16753#16753: *1958 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 104.236.183.77, server: _, request: "OPTIONS / HTTP/1.1"
+2017/01/15 21:02:13 [info] 16753#16753: *1966 client 94.102.49.218 closed keepalive connection
+2017/01/16 00:17:53 [info] 16753#16753: *1967 client 91.223.133.17 closed keepalive connection
+2017/01/16 01:33:28 [info] 16753#16753: *1968 client 198.20.69.74 closed keepalive connection
+2017/01/16 01:33:29 [info] 16753#16753: *1969 client 198.20.69.74 closed keepalive connection (104: Connection reset by peer)
+2017/01/16 01:33:29 [info] 16753#16753: *1970 client 198.20.69.74 closed keepalive connection (104: Connection reset by peer)
+2017/01/16 01:59:04 [info] 16753#16753: *1971 client closed connection while waiting for request, client: 179.158.7.146, server: 0.0.0.0:80
+2017/01/16 06:57:57 [info] 16753#16753: *1976 client timed out (110: Connection timed out) while waiting for request, client: 182.58.182.56, server: 0.0.0.0:80
+2017/01/16 06:58:59 [info] 16753#16753: *1977 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.53, server: 0.0.0.0:80
+2017/01/16 14:03:34 [info] 16753#16753: *1982 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.28, server: 0.0.0.0:80
+2017/01/17 02:48:30 [info] 16753#16753: *1984 client 222.187.222.159 closed keepalive connection
+2017/01/17 04:21:58 [info] 16753#16753: *1985 client sent invalid request while reading client request line, client: 121.201.44.235, server: _, request: "CONNECT search.yahoo.com:443 HTTP/1.1"
+2017/01/17 08:12:30 [info] 16753#16753: *1987 client closed connection while waiting for request, client: 101.200.142.29, server: 0.0.0.0:80
+2017/01/17 10:36:25 [info] 16753#16753: *1988 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 52.78.96.194, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2017/01/17 10:59:59 [info] 16753#16753: *1990 client 177.240.215.254 closed keepalive connection (104: Connection reset by peer)
+2017/01/17 13:24:09 [info] 16753#16753: *1994 client 195.154.41.132 closed keepalive connection
+2017/01/17 13:24:09 [info] 16753#16753: *1995 client 212.129.62.79 closed keepalive connection
+2017/01/17 13:24:09 [info] 16753#16753: *1996 client 212.129.62.79 closed keepalive connection
+2017/01/17 13:24:10 [info] 16753#16753: *1997 client 195.154.41.132 closed keepalive connection
+2017/01/17 13:24:10 [info] 16753#16753: *1998 client 212.129.62.79 closed keepalive connection
+2017/01/17 13:24:10 [info] 16753#16753: *1999 client 212.129.62.79 closed keepalive connection
+2017/01/17 15:50:34 [info] 16753#16753: *2004 client 114.215.17.58 closed keepalive connection
+2017/01/17 17:28:13 [info] 16753#16753: *2006 client 59.93.205.153 closed keepalive connection (104: Connection reset by peer)
+2017/01/17 19:31:13 [info] 16753#16753: *2007 recv() failed (104: Connection reset by peer) while waiting for request, client: 107.72.164.89, server: 0.0.0.0:80
+2017/01/17 19:31:14 [info] 16753#16753: *2008 client sent invalid method while reading client request line, client: 107.72.165.233, server: _, request: "∆   †¿€À5W{Í¥¶=ÓI°˚1L˙˛o´∞ío;ÕÃb∑ÇUâ6ÜØ≥îOQG>9fi‡Ê}‘I•“0Y :˜˚ÌÕˇP|2(†ZeÓCoÃπy¨g†ò∆õÕ;∞)™¥ãH2˙å»Ö∏ÈŒ◊f˜∂"
+2017/01/18 00:12:54 [info] 16753#16753: *2009 client 80.14.79.190 closed keepalive connection (104: Connection reset by peer)
+2017/01/18 02:07:59 [info] 16753#16753: *2010 client sent invalid method while reading client request line, client: 195.62.53.168, server: _, request: "        "
+2017/01/18 06:29:29 [info] 16753#16753: *2012 client 169.56.71.51 closed keepalive connection
+2017/01/18 06:38:12 [info] 16753#16753: *2013 client 212.59.30.110 closed keepalive connection (104: Connection reset by peer)
+2017/01/18 09:28:44 [info] 16753#16753: *2015 client 54.80.30.202 closed keepalive connection
+2017/01/18 09:28:44 [info] 16753#16753: *2014 client 54.80.30.202 closed keepalive connection
+2017/01/18 18:53:06 [info] 16753#16753: *2019 client 201.179.5.150 closed keepalive connection (104: Connection reset by peer)
+2017/01/18 18:55:47 [info] 16753#16753: *2020 client 180.97.106.161 closed keepalive connection
+2017/01/18 19:32:54 [info] 16753#16753: *2021 client 169.56.71.58 closed keepalive connection
+2017/01/19 04:47:31 [info] 16753#16753: *2030 client sent invalid method while reading client request line, client: 180.97.106.161, server: _, request: " P¥£qR "
+2017/01/19 07:26:47 [info] 16753#16753: *2031 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " "
+2017/01/19 20:10:02 [info] 16753#16753: *2042 client timed out (110: Connection timed out) while waiting for request, client: 27.4.54.42, server: 0.0.0.0:80
+2017/01/20 07:03:29 [info] 16753#16753: *2050 client 110.240.57.254 closed keepalive connection
+2017/01/20 13:14:29 [info] 16753#16753: *2052 client 191.84.190.55 closed keepalive connection (104: Connection reset by peer)
+2017/01/20 20:30:14 [info] 16753#16753: *2057 client closed connection while waiting for request, client: 31.215.244.153, server: 0.0.0.0:80
+2017/01/20 20:45:47 [info] 16753#16753: *2058 client closed connection while waiting for request, client: 191.187.75.202, server: 0.0.0.0:80
+2017/01/20 23:05:21 [info] 16753#16753: *2063 client closed connection while waiting for request, client: 185.159.37.125, server: 0.0.0.0:80
+2017/01/20 23:05:21 [info] 16753#16753: *2064 client 185.159.37.125 closed keepalive connection
+2017/01/20 23:05:22 [info] 16753#16753: *2065 client 185.159.37.125 closed keepalive connection
+2017/01/21 05:02:01 [info] 16753#16753: *2067 client 195.154.41.132 closed keepalive connection
+2017/01/21 05:02:02 [info] 16753#16753: *2069 client 195.154.41.132 closed keepalive connection
+2017/01/21 05:02:02 [info] 16753#16753: *2070 client 212.129.62.79 closed keepalive connection
+2017/01/21 05:02:03 [info] 16753#16753: *2071 client 212.129.62.79 closed keepalive connection
+2017/01/21 09:05:44 [info] 16753#16753: *2075 client closed connection while waiting for request, client: 185.159.37.126, server: 0.0.0.0:80
+2017/01/21 09:05:45 [info] 16753#16753: *2076 client 185.159.37.126 closed keepalive connection
+2017/01/21 09:05:45 [info] 16753#16753: *2077 client 185.159.37.126 closed keepalive connection
+2017/01/21 16:38:09 [info] 16753#16753: *2083 client timed out (110: Connection timed out) while waiting for request, client: 182.58.245.129, server: 0.0.0.0:80
+2017/01/22 09:59:53 [info] 16753#16753: *2123 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.58, server: 0.0.0.0:80
+2017/01/22 10:23:11 [info] 16753#16753: *2124 client timed out (110: Connection timed out) while waiting for request, client: 182.58.211.158, server: 0.0.0.0:80
+2017/01/22 10:27:01 [info] 16753#16753: *2125 client timed out (110: Connection timed out) while waiting for request, client: 182.58.211.158, server: 0.0.0.0:80
+2017/01/22 10:31:13 [info] 16753#16753: *2126 client timed out (110: Connection timed out) while waiting for request, client: 182.58.211.158, server: 0.0.0.0:80
+2017/01/22 11:41:04 [info] 16753#16753: *2127 client 31.3.90.247 closed keepalive connection (104: Connection reset by peer)
+2017/01/22 14:10:55 [info] 16753#16753: *2128 client timed out (110: Connection timed out) while waiting for request, client: 120.188.94.203, server: 0.0.0.0:80
+2017/01/22 20:18:44 [info] 16753#16753: *2131 client 179.36.155.240 closed keepalive connection (104: Connection reset by peer)
+2017/01/22 21:03:25 [info] 16753#16753: *2132 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.144, server: _, request: "GET /x HTTP/1.1"
+2017/01/23 01:02:49 [info] 16753#16753: *2133 client closed connection while waiting for request, client: 188.0.236.106, server: 0.0.0.0:80
+2017/01/23 01:02:50 [info] 16753#16753: *2134 client 188.0.236.106 closed keepalive connection
+2017/01/23 01:02:51 [info] 16753#16753: *2135 client 188.0.236.106 closed keepalive connection
+2017/01/23 04:53:19 [info] 16753#16753: *2145 client 82.127.244.162 closed keepalive connection (104: Connection reset by peer)
+2017/01/23 13:22:23 [info] 16753#16753: *2152 client 196.202.3.246 closed keepalive connection (104: Connection reset by peer)
+2017/01/23 15:44:59 [info] 16753#16753: *2154 client 179.36.173.184 closed keepalive connection (104: Connection reset by peer)
+2017/01/23 22:16:34 [info] 16753#16753: *2155 client 181.21.55.194 closed keepalive connection (104: Connection reset by peer)
+2017/01/24 07:03:26 [info] 16753#16753: *2160 client 122.162.90.43 closed keepalive connection (104: Connection reset by peer)
+2017/01/24 12:35:26 [info] 16753#16753: *2164 client 201.183.237.8 closed keepalive connection
+2017/01/24 14:21:13 [info] 16753#16753: *2165 client 201.183.237.8 closed keepalive connection
+2017/01/24 16:43:05 [info] 16753#16753: *2167 client 89.248.174.37 closed keepalive connection
+2017/01/25 00:22:23 [info] 16753#16753: *2170 client 217.219.27.212 closed keepalive connection (104: Connection reset by peer)
+2017/01/25 09:17:46 [info] 16753#16753: *2171 client 189.126.173.47 closed keepalive connection (104: Connection reset by peer)
+2017/01/25 18:38:33 [info] 16753#16753: *2182 client 180.97.106.37 closed keepalive connection
+2017/01/25 19:22:53 [info] 16753#16753: *2184 client 89.248.174.102 closed keepalive connection
+2017/01/25 22:27:55 [info] 16753#16753: *2186 client 23.20.205.190 closed keepalive connection
+2017/01/25 22:27:55 [info] 16753#16753: *2185 client 23.20.205.190 closed keepalive connection
+2017/01/25 23:54:48 [info] 16753#16753: *2187 client closed connection while waiting for request, client: 189.103.130.238, server: 0.0.0.0:80
+2017/01/26 02:31:40 [info] 16753#16753: *2190 client 186.57.171.22 closed keepalive connection (104: Connection reset by peer)
+2017/01/26 04:10:00 [info] 16753#16753: *2192 client sent invalid method while reading client request line, client: 180.97.106.162, server: _, request: " P¥£qR "
+2017/01/26 05:54:56 [info] 16753#16753: *2194 client 193.248.195.2 closed keepalive connection (104: Connection reset by peer)
+2017/01/26 06:43:34 [info] 16753#16753: *2195 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " "
+2017/01/26 09:20:44 [info] 16753#16753: *2196 client 119.135.47.201 closed keepalive connection
+2017/01/26 09:34:23 [info] 16753#16753: *2197 client 80.82.64.42 closed keepalive connection
+2017/01/26 13:56:48 [info] 16753#16753: *2199 client 187.17.18.91 closed keepalive connection (104: Connection reset by peer)
+2017/01/27 06:42:21 [info] 16753#16753: *2202 client 41.191.34.15 closed keepalive connection (104: Connection reset by peer)
+2017/01/27 10:28:25 [info] 16753#16753: *2203 client closed connection while waiting for request, client: 188.0.236.131, server: 0.0.0.0:80
+2017/01/27 10:28:27 [info] 16753#16753: *2204 client 188.0.236.131 closed keepalive connection
+2017/01/27 10:28:28 [info] 16753#16753: *2205 client 188.0.236.131 closed keepalive connection
+2017/01/27 15:06:04 [info] 16753#16753: *2207 client 87.10.242.227 closed keepalive connection (104: Connection reset by peer)
+2017/01/28 00:03:04 [info] 16753#16753: *2210 client 191.80.240.86 closed keepalive connection (104: Connection reset by peer)
+2017/01/28 05:08:06 [info] 16753#16753: *2217 client 60.223.134.18 closed keepalive connection
+2017/01/28 06:22:42 [info] 16753#16753: *2218 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2017/01/28 06:22:42 [info] 16753#16753: *2219 client closed connection while waiting for request, client: 195.154.41.132, server: 0.0.0.0:80
+2017/01/28 06:22:43 [info] 16753#16753: *2220 client 195.154.41.132 closed keepalive connection
+2017/01/28 06:22:43 [info] 16753#16753: *2221 client 195.154.41.132 closed keepalive connection
+2017/01/28 06:22:43 [info] 16753#16753: *2222 client 195.154.41.132 closed keepalive connection
+2017/01/28 06:22:44 [info] 16753#16753: *2223 client 195.154.41.132 closed keepalive connection
+2017/01/28 12:34:15 [info] 16753#16753: *2224 client sent invalid method while reading client request line, client: 24.183.11.120, server: _, request: "E   £Z¡â¿7~w≈ÙËìX™√gŸÿ%æU–ØH]˝3Ì˝ΩQ%àîÌ≠i©±◊èä»Ωææ4ﬁ8ÓºV"
+2017/01/28 13:03:28 [info] 16753#16753: *2239 client 24.183.11.120 closed keepalive connection
+2017/01/28 13:45:38 [info] 16753#16753: *2260 client 24.183.11.120 closed keepalive connection
+2017/01/28 14:47:58 [info] 16753#16753: *2291 client 24.183.11.120 closed keepalive connection
+2017/01/28 16:33:29 [info] 16753#16753: *2298 client 5.74.49.141 closed keepalive connection (104: Connection reset by peer)
+2017/01/28 17:22:56 [info] 16753#16753: *2313 client 24.183.11.120 closed keepalive connection
+2017/01/28 18:33:36 [info] 16753#16753: *2344 client 24.183.11.120 closed keepalive connection
+2017/01/28 19:07:11 [info] 16753#16753: *2353 client 24.183.11.120 closed keepalive connection
+2017/01/28 23:09:19 [info] 16753#16753: *2366 client closed connection while waiting for request, client: 185.159.37.126, server: 0.0.0.0:80
+2017/01/28 23:09:19 [info] 16753#16753: *2367 client 185.159.37.126 closed keepalive connection
+2017/01/28 23:09:20 [info] 16753#16753: *2368 client 185.159.37.126 closed keepalive connection
+2017/01/29 00:10:00 [info] 16753#16753: *2369 client 24.183.11.120 closed keepalive connection
+2017/01/29 01:28:34 [info] 16753#16753: *2400 client 24.183.11.120 closed keepalive connection
+2017/01/29 03:11:24 [info] 16753#16753: *2410 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.239, server: 0.0.0.0:80
+2017/01/29 03:41:19 [info] 16753#16753: *2411 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.239, server: 0.0.0.0:80
+2017/01/29 04:06:53 [info] 16753#16753: *2412 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.239, server: 0.0.0.0:80
+2017/01/29 04:25:09 [info] 16753#16753: *2413 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.239, server: 0.0.0.0:80
+2017/01/29 04:53:43 [info] 16753#16753: *2414 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.239, server: 0.0.0.0:80
+2017/01/29 05:05:55 [info] 16753#16753: *2415 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.239, server: 0.0.0.0:80
+2017/01/29 05:19:51 [info] 16753#16753: *2416 client timed out (110: Connection timed out) while waiting for request, client: 182.58.242.239, server: 0.0.0.0:80
+2017/01/29 06:17:01 [info] 16753#16753: *2418 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.95, server: 0.0.0.0:80
+2017/01/29 06:17:17 [info] 16753#16753: *2419 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.95, server: 0.0.0.0:80
+2017/01/29 09:50:50 [info] 16753#16753: *2420 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.95, server: 0.0.0.0:80
+2017/01/29 09:50:50 [info] 16753#16753: *2421 client timed out (110: Connection timed out) while waiting for request, client: 49.44.51.95, server: 0.0.0.0:80
+2017/01/29 10:23:21 [info] 16753#16753: *2422 client 41.135.97.141 closed keepalive connection (104: Connection reset by peer)
+2017/01/29 21:32:54 [info] 16753#16753: *2426 client closed connection while waiting for request, client: 37.220.92.13, server: 0.0.0.0:80
+2017/01/30 03:06:15 [info] 16753#16753: *2429 client 109.1.111.9 closed keepalive connection (104: Connection reset by peer)
+2017/01/30 07:29:56 [info] 16753#16753: *2431 client closed connection while waiting for request, client: 185.159.37.123, server: 0.0.0.0:80
+2017/01/30 07:29:56 [info] 16753#16753: *2432 client 185.159.37.123 closed keepalive connection
+2017/01/30 07:29:57 [info] 16753#16753: *2433 client 185.159.37.123 closed keepalive connection
+2017/01/30 12:05:45 [info] 16753#16753: *2435 client 178.239.17.120 closed keepalive connection (104: Connection reset by peer)
+2017/01/30 21:01:04 [info] 16753#16753: *2438 client 217.91.31.135 closed keepalive connection (104: Connection reset by peer)
+2017/01/30 22:52:35 [info] 16753#16753: *2439 recv() failed (104: Connection reset by peer) while waiting for request, client: 69.164.205.7, server: 0.0.0.0:80
+2017/01/30 22:52:35 [info] 16753#16753: *2440 recv() failed (104: Connection reset by peer) while sending response to client, client: 69.164.205.7, server: _, request: "GET / HTTP/1.0"
+2017/01/30 23:57:56 [info] 16753#16753: *2441 recv() failed (104: Connection reset by peer) while waiting for request, client: 34.249.19.156, server: 0.0.0.0:80
+2017/01/31 00:09:42 [info] 16753#16753: *2444 client 34.249.19.156 closed keepalive connection
+2017/01/31 06:32:45 [info] 16753#16753: *2449 client 169.54.233.116 closed keepalive connection
+2017/01/31 08:20:25 [info] 16753#16753: *2450 client 168.121.255.241 closed keepalive connection (104: Connection reset by peer)
+2017/01/31 16:07:17 [info] 16753#16753: *2455 client 134.35.237.116 closed keepalive connection (104: Connection reset by peer)
+2017/01/31 17:21:01 [info] 16753#16753: *2456 client closed connection while waiting for request, client: 185.2.83.34, server: 0.0.0.0:80
+2017/01/31 17:51:16 [info] 16753#16753: *2457 client 169.54.233.120 closed keepalive connection
+2017/01/31 18:49:44 [info] 16753#16753: *2459 client 221.194.44.229 closed keepalive connection (104: Connection reset by peer)
+2017/01/31 23:31:59 [info] 16753#16753: *2465 client 185.2.83.34 closed keepalive connection
+2017/01/31 23:40:38 [info] 16753#16753: *2466 client 91.223.133.17 closed keepalive connection
+2017/01/31 23:40:39 [info] 16753#16753: *2467 client 91.223.133.17 closed keepalive connection
+2017/02/01 00:43:52 [info] 16753#16753: *2470 client 112.135.87.128 closed keepalive connection (104: Connection reset by peer)
+2017/02/01 09:24:06 [info] 16753#16753: *2479 client 138.99.241.121 closed keepalive connection (104: Connection reset by peer)
+2017/02/01 09:48:36 [info] 16753#16753: *2480 client 218.22.126.147 closed keepalive connection
+2017/02/01 12:53:12 [info] 16753#16753: *2482 client 221.194.44.229 closed keepalive connection (104: Connection reset by peer)
+2017/02/01 14:58:41 [info] 16753#16753: *2484 client timed out (110: Connection timed out) while waiting for request, client: 12.156.154.162, server: 0.0.0.0:80
+2017/02/01 17:00:16 [info] 16753#16753: *2485 client closed connection while waiting for request, client: 181.223.207.184, server: 0.0.0.0:80
+2017/02/01 18:02:55 [info] 16753#16753: *2490 client 105.102.29.100 closed keepalive connection (104: Connection reset by peer)
+2017/02/01 18:13:30 [info] 16753#16753: *2491 client 191.96.249.70 closed keepalive connection
+2017/02/01 18:55:38 [info] 16753#16753: *2492 client timed out (110: Connection timed out) while waiting for request, client: 180.97.106.37, server: 0.0.0.0:80
+2017/02/02 00:25:26 [info] 16753#16753: *2493 client 221.194.44.229 closed keepalive connection (104: Connection reset by peer)
+2017/02/02 03:51:41 [info] 16753#16753: *2495 client 201.254.143.197 closed keepalive connection (104: Connection reset by peer)
+2017/02/02 04:46:47 [info] 16753#16753: *2496 client sent invalid method while reading client request line, client: 180.97.106.161, server: _, request: " P¥£qR "
+2017/02/02 07:16:26 [info] 16753#16753: *2497 client sent invalid method while reading client request line, client: 180.97.106.162, server: _, request: " "
+2017/02/02 07:26:19 [info] 16753#16753: *2499 client 54.159.78.53 closed keepalive connection
+2017/02/02 07:26:19 [info] 16753#16753: *2498 client 54.159.78.53 closed keepalive connection
+2017/02/02 12:04:31 [info] 16753#16753: *2500 client 41.237.52.139 closed keepalive connection (104: Connection reset by peer)
+2017/02/02 13:34:37 [info] 16753#16753: *2503 client 183.60.175.109 closed keepalive connection
+2017/02/03 03:13:37 [info] 16753#16753: *2506 client closed connection while waiting for request, client: 188.0.236.131, server: 0.0.0.0:80
+2017/02/03 03:13:38 [info] 16753#16753: *2507 client 188.0.236.131 closed keepalive connection
+2017/02/03 03:13:39 [info] 16753#16753: *2508 client 188.0.236.131 closed keepalive connection
+2017/02/03 05:44:42 [info] 16753#16753: *2509 client 190.48.75.127 closed keepalive connection (104: Connection reset by peer)
+2017/02/03 13:49:26 [info] 16753#16753: *2510 client 191.84.2.227 closed keepalive connection (104: Connection reset by peer)
+2017/02/03 22:23:36 [info] 16753#16753: *2511 client 89.189.95.122 closed keepalive connection (104: Connection reset by peer)
+2017/02/04 07:14:11 [info] 16753#16753: *2514 client 181.25.255.200 closed keepalive connection (104: Connection reset by peer)
+2017/02/04 14:57:49 [info] 16753#16753: *2517 client 76.9.5.174 closed keepalive connection
+2017/02/04 15:09:35 [info] 16753#16753: *2518 client 186.227.29.253 closed keepalive connection (104: Connection reset by peer)
+2017/02/04 16:07:29 [info] 16753#16753: *2519 client 221.194.44.229 closed keepalive connection (104: Connection reset by peer)
+2017/02/04 21:09:55 [info] 16753#16753: *2521 client 193.70.45.39 closed keepalive connection
+2017/02/04 23:42:20 [info] 16753#16753: *2522 client 151.234.174.44 closed keepalive connection (104: Connection reset by peer)
+2017/02/05 08:09:54 [info] 16753#16753: *2526 client 80.13.84.211 closed keepalive connection (104: Connection reset by peer)
+2017/02/05 12:16:37 [info] 16753#16753: *2527 client 221.194.44.229 closed keepalive connection (104: Connection reset by peer)
+2017/02/05 21:02:28 [info] 16753#16753: *2529 client 217.128.15.24 closed keepalive connection (104: Connection reset by peer)
+2017/02/06 05:06:54 [info] 16753#16753: *2530 client 182.69.44.120 closed keepalive connection (104: Connection reset by peer)
+2017/02/06 06:34:10 [info] 16753#16753: *2531 client closed connection while waiting for request, client: 73.74.108.153, server: 0.0.0.0:80
+2017/02/06 14:58:50 [info] 16753#16753: *2533 client sent invalid method while reading client request line, client: 68.202.187.94, server: _, request: "∆   A•"
+2017/02/06 14:59:06 [info] 16753#16753: *2534 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:00:09 [info] 16753#16753: *2535 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:01:56 [info] 16753#16753: *2536 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:02:59 [info] 16753#16753: *2537 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:04:37 [info] 16753#16753: *2538 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:05:41 [info] 16753#16753: *2539 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:07:26 [info] 16753#16753: *2541 client closed connection while waiting for request, client: 177.192.217.34, server: 0.0.0.0:80
+2017/02/06 15:08:15 [info] 16753#16753: *2540 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:09:22 [info] 16753#16753: *2546 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:11:56 [info] 16753#16753: *2547 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:13:00 [info] 16753#16753: *2548 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:14:47 [info] 16753#16753: *2549 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:15:53 [info] 16753#16753: *2550 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:18:14 [info] 16753#16753: *2551 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:19:19 [info] 16753#16753: *2552 client 68.202.187.94 closed keepalive connection
+2017/02/06 15:21:30 [info] 16753#16753: *2553 client 68.202.187.94 closed keepalive connection
+2017/02/06 22:02:24 [info] 16753#16753: *2556 client 120.60.136.127 closed keepalive connection (104: Connection reset by peer)
+2017/02/07 00:11:28 [info] 16753#16753: *2560 client 71.6.167.142 closed keepalive connection
+2017/02/07 00:11:29 [info] 16753#16753: *2562 client 71.6.167.142 closed keepalive connection (104: Connection reset by peer)
+2017/02/07 00:11:29 [info] 16753#16753: *2561 client 71.6.167.142 closed keepalive connection (104: Connection reset by peer)
+2017/02/07 01:10:37 [info] 16753#16753: *2563 client closed connection while waiting for request, client: 188.0.236.106, server: 0.0.0.0:80
+2017/02/07 01:10:38 [info] 16753#16753: *2564 client 188.0.236.106 closed keepalive connection
+2017/02/07 01:10:39 [info] 16753#16753: *2565 client 188.0.236.106 closed keepalive connection
+2017/02/07 05:54:59 [info] 16753#16753: *2567 client 181.21.159.52 closed keepalive connection (104: Connection reset by peer)
+2017/02/07 06:17:09 [info] 16753#16753: *2568 client 190.174.3.131 closed keepalive connection (104: Connection reset by peer)
+2017/02/07 12:06:04 [info] 16753#16753: *2570 client closed connection while waiting for request, client: 202.156.144.238, server: 0.0.0.0:80
+2017/02/07 12:06:04 [info] 16753#16753: *2571 client closed connection while waiting for request, client: 202.156.144.238, server: 0.0.0.0:80
+2017/02/07 14:49:05 [info] 16753#16753: *2573 client 201.178.246.239 closed keepalive connection (104: Connection reset by peer)
+2017/02/07 16:01:10 [info] 16753#16753: *2574 client 139.201.126.232 closed keepalive connection (104: Connection reset by peer)
+2017/02/07 17:03:05 [info] 16753#16753: *2575 client 45.248.85.53 closed keepalive connection (104: Connection reset by peer)
+2017/02/07 17:26:35 [info] 16753#16753: *2576 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 37.187.49.176, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2017/02/07 23:37:00 [info] 16753#16753: *2582 client 186.61.139.40 closed keepalive connection (104: Connection reset by peer)
+2017/02/08 02:03:42 [info] 16753#16753: *2584 client closed connection while waiting for request, client: 185.153.197.192, server: 0.0.0.0:80
+2017/02/08 02:03:43 [info] 16753#16753: *2585 client 185.153.197.192 closed keepalive connection
+2017/02/08 02:03:43 [info] 16753#16753: *2586 client 185.153.197.192 closed keepalive connection
+2017/02/08 03:46:21 [info] 16753#16753: *2606 client closed connection while waiting for request, client: 188.0.236.131, server: 0.0.0.0:80
+2017/02/08 03:46:22 [info] 16753#16753: *2607 client 188.0.236.131 closed keepalive connection
+2017/02/08 03:46:23 [info] 16753#16753: *2608 client 188.0.236.131 closed keepalive connection
+2017/02/08 07:39:55 [info] 16753#16753: *2609 client 99.112.127.21 closed keepalive connection
+2017/02/08 08:34:06 [info] 16753#16753: *2610 client 201.178.246.228 closed keepalive connection (104: Connection reset by peer)
+2017/02/08 16:03:20 [info] 16753#16753: *2611 client 156.194.125.127 closed keepalive connection (104: Connection reset by peer)
+2017/02/08 17:29:15 [info] 16753#16753: *2612 client 169.0.238.219 closed keepalive connection (104: Connection reset by peer)
+2017/02/08 18:38:49 [info] 16753#16753: *2613 client 180.97.106.162 closed keepalive connection
+2017/02/08 18:46:28 [info] 16753#16753: *2614 client 99.112.127.21 closed keepalive connection
+2017/02/08 20:27:36 [info] 16753#16753: *2615 client 69.84.240.11 closed keepalive connection
+2017/02/09 00:35:31 [info] 16753#16753: *2617 client sent invalid method while reading client request line, client: 211.22.90.249, server: _, request: ""
+2017/02/09 01:48:06 [info] 16753#16753: *2618 client 103.53.110.244 closed keepalive connection (104: Connection reset by peer)
+2017/02/09 01:54:02 [info] 16753#16753: *2619 client 168.1.128.74 closed keepalive connection
+2017/02/09 04:07:04 [info] 16753#16753: *2620 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " P¥£qR "
+2017/02/09 06:40:23 [info] 16753#16753: *2621 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " "
+2017/02/09 10:05:02 [info] 16753#16753: *2624 client 201.178.69.8 closed keepalive connection (104: Connection reset by peer)
+2017/02/09 14:47:41 [info] 16753#16753: *2625 client sent invalid method while reading client request line, client: 162.225.167.62, server: _, request: "è   @ß]ïåûdì£Ÿ§Æm"œùº⁄†9ä°úΩ1 n8@±'#µ˘ûv5’+*%‡Lì§{c+•¡sê~àyLÿπmåOÀ◊L"
+2017/02/09 15:37:31 [info] 16753#16753: *2626 client timed out (110: Connection timed out) while waiting for request, client: 49.35.7.102, server: 0.0.0.0:80
+2017/02/09 15:50:33 [info] 16753#16753: *2629 client 168.1.128.59 closed keepalive connection
+2017/02/09 18:11:01 [info] 16753#16753: *2633 client 186.57.7.163 closed keepalive connection (104: Connection reset by peer)
+2017/02/09 22:29:36 [info] 16753#16753: *2634 client 54.146.35.213 closed keepalive connection
+2017/02/09 22:29:36 [info] 16753#16753: *2635 client 54.146.35.213 closed keepalive connection
+2017/02/10 06:58:29 [info] 16753#16753: *2636 client 186.129.25.137 closed keepalive connection (104: Connection reset by peer)
+2017/02/10 15:19:51 [info] 16753#16753: *2645 client 80.147.3.12 closed keepalive connection (104: Connection reset by peer)
+2017/02/10 15:36:05 [info] 16753#16753: *2646 client closed connection while waiting for request, client: 187.107.192.254, server: 0.0.0.0:80
+2017/02/10 16:10:48 [info] 16753#16753: *2651 client closed connection while waiting for request, client: 195.22.127.99, server: 0.0.0.0:80
+2017/02/10 16:10:48 [info] 16753#16753: *2652 client 195.22.127.99 closed keepalive connection
+2017/02/10 23:29:58 [info] 16753#16753: *2661 client 187.63.220.194 closed keepalive connection (104: Connection reset by peer)
+2017/02/11 00:35:40 [info] 16753#16753: *2662 client 71.6.165.200 closed keepalive connection
+2017/02/11 00:35:41 [info] 16753#16753: *2663 client 71.6.165.200 closed keepalive connection (104: Connection reset by peer)
+2017/02/11 00:35:42 [info] 16753#16753: *2664 client 71.6.165.200 closed keepalive connection (104: Connection reset by peer)
+2017/02/11 01:35:54 [info] 16753#16753: *2665 client 218.206.207.106 closed keepalive connection (104: Connection reset by peer)
+2017/02/11 05:00:39 [info] 16753#16753: *2666 client 58.218.205.84 closed keepalive connection (104: Connection reset by peer)
+2017/02/11 08:10:59 [info] 16753#16753: *2669 client 41.38.249.100 closed keepalive connection (104: Connection reset by peer)
+2017/02/11 11:12:02 [info] 16753#16753: *2671 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 37.187.49.176, server: _, request: "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1"
+2017/02/11 11:52:13 [info] 16753#16753: *2673 client 201.62.69.100 closed keepalive connection (104: Connection reset by peer)
+2017/02/11 12:05:26 [info] 16753#16753: *2674 client 37.61.221.31 closed keepalive connection
+2017/02/11 16:46:21 [info] 16753#16753: *2678 client timed out (110: Connection timed out) while waiting for request, client: 5.238.215.166, server: 0.0.0.0:80
+2017/02/11 23:56:53 [info] 16753#16753: *2680 client 169.56.71.45 closed keepalive connection
+2017/02/12 01:06:01 [info] 16753#16753: *2681 client 186.236.9.143 closed keepalive connection (104: Connection reset by peer)
+2017/02/12 05:38:16 [info] 16753#16753: *2682 client 218.206.207.106 closed keepalive connection (104: Connection reset by peer)
+2017/02/12 09:56:37 [info] 16753#16753: *2683 client 169.56.71.56 closed keepalive connection
+2017/02/12 12:37:21 [info] 16753#16753: *2684 client 37.239.228.202 closed keepalive connection (104: Connection reset by peer)
+2017/02/12 16:12:10 [info] 16753#16753: *2686 client 185.40.4.169 closed keepalive connection
+2017/02/12 16:12:11 [info] 16753#16753: *2685 client sent invalid method while reading client request line, client: 185.40.4.169, server: _, request: " å  àˆHÀÂJo´t;"
+2017/02/12 16:12:11 [info] 16753#16753: *2687 client sent invalid method while reading client request line, client: 185.40.4.169, server: _, request: " å  à$6ŒbEJï˜b:≈6‘¨J(ôX70∏cÅ’P  .¿+¿/ û ú¿"
+2017/02/12 16:12:11 [info] 16753#16753: *2685 recv() failed (104: Connection reset by peer) while reading client request line, client: 185.40.4.169, server: _, request: " å  àˆHÀÂJo´t;"
+2017/02/12 16:12:11 [info] 16753#16753: *2687 recv() failed (104: Connection reset by peer) while reading client request line, client: 185.40.4.169, server: _, request: " å  à$6ŒbEJï˜b:≈6‘¨J(ôX70∏cÅ’P  .¿+¿/ û ú¿"
+2017/02/13 02:36:16 [info] 16753#16753: *2692 recv() failed (104: Connection reset by peer) while waiting for request, client: 195.154.182.164, server: 0.0.0.0:80
+2017/02/13 15:36:13 [info] 16753#16753: *2695 client 218.206.207.106 closed keepalive connection (104: Connection reset by peer)
+2017/02/13 17:01:23 [info] 16753#16753: *2696 client 146.0.229.51 closed keepalive connection
+2017/02/14 07:34:48 [info] 16753#16753: *2703 client closed connection while waiting for request, client: 187.2.165.166, server: 0.0.0.0:80
+2017/02/14 12:59:17 [info] 16753#16753: *2706 client 62.210.246.66 closed keepalive connection
+2017/02/14 16:07:22 [info] 16753#16753: *2709 client 62.212.111.241 closed keepalive connection (104: Connection reset by peer)
+2017/02/14 18:04:30 [info] 16753#16753: *2710 client 137.59.18.162 closed keepalive connection
+2017/02/14 19:04:28 [info] 16753#16753: *2713 client 62.210.246.66 closed keepalive connection
+2017/02/15 03:05:09 [info] 16753#16753: *2717 client 66.240.219.146 closed keepalive connection (104: Connection reset by peer)
+2017/02/15 03:05:10 [info] 16753#16753: *2718 client 66.240.219.146 closed keepalive connection (104: Connection reset by peer)
+2017/02/15 03:05:12 [info] 16753#16753: *2716 client 66.240.219.146 closed keepalive connection
+2017/02/15 05:07:38 [info] 16753#16753: *2720 client 86.64.109.162 closed keepalive connection (104: Connection reset by peer)
+2017/02/15 16:34:39 [info] 16753#16753: *2724 client 137.59.18.162 closed keepalive connection
+2017/02/15 17:59:42 [info] 16753#16753: *2726 client 180.97.106.161 closed keepalive connection
+2017/02/15 23:33:47 [info] 16753#16753: *2731 client 168.197.164.15 closed keepalive connection (104: Connection reset by peer)
+2017/02/16 02:34:17 [info] 16753#16753: *2733 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " P¥£qR "
+2017/02/16 02:53:46 [info] 16753#16753: *2734 client 155.94.254.143 closed keepalive connection
+2017/02/16 05:06:29 [info] 16753#16753: *2735 client sent invalid method while reading client request line, client: 180.97.106.37, server: _, request: " "
+2017/02/16 05:56:03 [info] 16753#16753: *2738 client 113.240.250.156 closed keepalive connection
+2017/02/17 06:51:37 [info] 16753#16753: *2756 client 191.80.224.111 closed keepalive connection (104: Connection reset by peer)
+2017/02/17 15:22:51 [info] 16753#16753: *2761 client 54.81.171.53 closed keepalive connection
+2017/02/17 15:22:51 [info] 16753#16753: *2760 client 54.81.171.53 closed keepalive connection
+2017/02/18 02:19:03 [info] 16753#16753: *2787 client 191.96.249.54 closed keepalive connection
+2017/02/18 03:48:23 [info] 16753#16753: *2789 client closed connection while waiting for request, client: 177.192.122.124, server: 0.0.0.0:80
+2017/02/19 03:29:40 [info] 16753#16753: *2807 client 169.54.244.78 closed keepalive connection
+2017/02/19 11:12:31 [info] 16753#16753: *2809 client 169.54.233.123 closed keepalive connection
+2017/02/19 17:29:32 [info] 16753#16753: *2810 client sent HTTP/1.1 request without "Host" header while reading client request headers, client: 141.212.122.64, server: _, request: "GET /x HTTP/1.1"
+2017/02/19 20:40:31 [info] 16753#16753: *2813 client 111.67.197.186 closed keepalive connection (104: Connection reset by peer)
+2017/02/19 21:56:11 [info] 16753#16753: *2814 client 24.216.19.174 closed keepalive connection
+2017/02/20 02:27:00 [info] 16753#16753: *2818 client 190.50.255.142 closed keepalive connection (104: Connection reset by peer)
+2017/02/20 06:14:40 [info] 16753#16753: *2819 client 104.192.87.10 closed keepalive connection (104: Connection reset by peer)
+2017/02/20 13:36:50 [info] 16753#16753: *2823 client sent invalid method while reading client request line, client: 50.32.106.225, server: _, request: "è   ≠"
+2017/02/20 14:08:09 [info] 16753#16753: *2839 client 50.32.106.225 closed keepalive connection
+2017/02/20 14:28:19 [info] 16753#16753: *2849 client 50.32.106.225 closed keepalive connection
+2017/02/20 16:37:21 [info] 16753#16753: *2907 client 50.32.106.225 closed keepalive connection
+2017/02/20 18:41:21 [info] 16753#16753: *2957 client 50.32.106.225 closed keepalive connection
+2017/02/20 19:15:22 [info] 16753#16753: *2975 client closed connection while waiting for request, client: 179.157.6.58, server: 0.0.0.0:80
+2017/02/20 19:21:44 [info] 16753#16753: *2980 client 50.32.106.225 closed keepalive connection
+2017/02/21 01:36:35 [info] 16753#16753: *3010 recv() failed (104: Connection reset by peer) while waiting for request, client: 173.201.189.204, server: 0.0.0.0:80
+2017/02/21 01:36:35 [info] 16753#16753: *3011 recv() failed (104: Connection reset by peer) while waiting for request, client: 173.201.189.204, server: 0.0.0.0:80
+2017/02/21 01:36:54 [info] 16753#16753: *3054 client 173.201.189.204 closed keepalive connection
+2017/02/21 08:14:43 [info] 16753#16753: *3114 client timed out (110: Connection timed out) while waiting for request, client: 202.67.38.17, server: 0.0.0.0:80
+2017/02/21 08:14:43 [info] 16753#16753: *3115 client timed out (110: Connection timed out) while waiting for request, client: 202.67.38.17, server: 0.0.0.0:80
+2017/02/21 08:14:43 [info] 16753#16753: *3116 client timed out (110: Connection timed out) while waiting for request, client: 202.67.38.17, server: 0.0.0.0:80
+2017/02/21 10:19:40 [info] 16753#16753: *3117 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 10:19:41 [info] 16753#16753: *3118 client 41.60.134.211 closed keepalive connection
+2017/02/21 10:35:57 [info] 16753#16753: *3119 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 10:35:58 [info] 16753#16753: *3120 client 41.60.134.211 closed keepalive connection
+2017/02/21 12:08:29 [info] 16753#16753: *3121 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 12:08:30 [info] 16753#16753: *3122 client 41.60.134.211 closed keepalive connection
+2017/02/21 12:24:57 [info] 16753#16753: *3123 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 12:24:58 [info] 16753#16753: *3124 client 41.60.134.211 closed keepalive connection
+2017/02/21 14:00:49 [info] 16753#16753: *3125 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 14:00:50 [info] 16753#16753: *3126 client 41.60.134.211 closed keepalive connection
+2017/02/21 14:17:32 [info] 16753#16753: *3127 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 14:17:33 [info] 16753#16753: *3128 client 41.60.134.211 closed keepalive connection
+2017/02/21 15:57:10 [info] 16753#16753: *3133 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 15:57:11 [info] 16753#16753: *3134 client 41.60.134.211 closed keepalive connection
+2017/02/21 16:14:23 [info] 16753#16753: *3135 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 16:14:23 [info] 16753#16753: *3136 client 41.60.134.211 closed keepalive connection
+2017/02/21 17:56:14 [info] 16753#16753: *3137 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 17:56:15 [info] 16753#16753: *3138 client 41.60.134.211 closed keepalive connection
+2017/02/21 18:14:07 [info] 16753#16753: *3139 client closed connection while waiting for request, client: 41.60.134.211, server: 0.0.0.0:80
+2017/02/21 18:14:08 [info] 16753#16753: *3140 client 41.60.134.211 closed keepalive connection
+2017/02/21 18:38:54 [info] 16753#16753: *3141 client sent invalid request while reading client request line, client: 1.214.89.69, server: _, request: "GET <title>phpMyAdmin HTTP/1.1"
+2017/02/21 21:44:09 [info] 16753#16753: *3166 client 37.61.221.31 closed keepalive connection
+2017/02/22 14:59:02 [info] 16753#16753: *3171 client 54.80.70.27 closed keepalive connection
+2017/02/22 14:59:02 [info] 16753#16753: *3172 client 54.80.70.27 closed keepalive connection
+2017/02/22 15:52:24 [info] 16753#16753: *3173 client 58.42.248.42 closed keepalive connection
+2017/02/22 16:40:53 [info] 16753#16753: *3174 client sent invalid method while reading client request line, client: 123.59.94.29, server: _, request: "" *˝ÿ€ËoqDOH^â¡_yZ8†¬ÆCêI§p`∂ñ:  à¿0¿,¿(¿$¿¿"
+2017/02/22 16:40:53 [info] 16753#16753: *3174 recv() failed (104: Connection reset by peer) while reading client request line, client: 123.59.94.29, server: _, request: "" *˝ÿ€ËoqDOH^â¡_yZ8†¬ÆCêI§p`∂ñ:  à¿0¿,¿(¿$¿¿"
+2017/02/22 16:40:57 [info] 16753#16753: *3175 recv() failed (104: Connection reset by peer) while waiting for request, client: 123.59.94.29, server: 0.0.0.0:80
+2017/02/22 16:41:00 [info] 16753#16753: *3176 client sent invalid request while reading client request line, client: 123.59.94.29, server: _, request: "USER test +iw test :Test Wuz Here"
+2017/02/22 16:41:01 [info] 16753#16753: *3176 recv() failed (104: Connection reset by peer) while reading client request line, client: 123.59.94.29, server: _, request: "USER test +iw test :Test Wuz Here"
+2017/02/22 16:41:05 [info] 16753#16753: *3177 client 123.59.94.29 closed keepalive connection (104: Connection reset by peer)
+2017/02/22 17:57:22 [info] 16753#16753: *3179 client 180.97.106.37 closed keepalive connection
+2017/02/22 18:19:09 [info] 16753#16753: *3180 client closed connection while waiting for request, client: 216.172.59.16, server: 0.0.0.0:80
+2017/02/22 19:09:18 [info] 16753#16753: *3181 client sent invalid method while reading client request line, client: 5.189.158.178, server: _, request: " Ú  ÓX≠·ﬁÆ”«¿·V¢◊|hÔX$=c`©[Ä‡(‡øö∏ü  Ñ¿0¿,¿(¿$¿¿"
+2017/02/22 19:09:19 [info] 16753#16753: *3181 recv() failed (104: Connection reset by peer) while reading client request line, client: 5.189.158.178, server: _, request: " Ú  ÓX≠·ﬁÆ”«¿·V¢◊|hÔX$=c`©[Ä‡(‡øö∏ü  Ñ¿0¿,¿(¿$¿¿"
+2017/02/23 02:28:31 [info] 16753#16753: *3188 client prematurely closed connection while reading client pipelined request line, client: 191.96.249.42, server: _
+2017/02/23 02:35:35 [info] 16753#16753: *3189 client sent invalid method while reading client request line, client: 180.97.106.162, server: _, request: " P¥£qR "
+2017/02/23 05:08:33 [info] 16753#16753: *3191 client sent invalid method while reading client request line, client: 180.97.106.161, server: _, request: " "
+2017/02/23 05:51:04 [info] 16753#16753: *3192 client closed connection while waiting for request, client: 185.58.207.125, server: 0.0.0.0:80
+2017/02/23 08:25:27 [info] 16753#16753: *3194 client 185.40.4.169 closed keepalive connection
+2017/02/23 08:25:29 [info] 16753#16753: *3193 client sent invalid method while reading client request line, client: 185.40.4.169, server: _, request: " ñ  í"¥Úì"
+2017/02/23 08:25:29 [info] 16753#16753: *3193 recv() failed (104: Connection reset by peer) while reading client request line, client: 185.40.4.169, server: _, request: " ñ  í"¥Úì"
+2017/02/23 11:10:19 [info] 16753#16753: *3195 client 62.210.246.66 closed keepalive connection
+2017/02/23 21:48:44 [info] 16753#16753: *3202 client 117.213.171.192 closed keepalive connection (104: Connection reset by peer)
+2017/02/24 09:42:07 [info] 16753#16753: *3205 client closed connection while waiting for request, client: 189.123.186.232, server: 0.0.0.0:80
